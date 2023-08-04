@@ -1507,3 +1507,4 @@ D:\03. Source\VTStek_Training\CNY_WH\obj\Debug\CNY_WH.csproj.CoreCompileInputs.c
 D:\03. Source\VTStek_Training\CNY_WH\obj\Debug\CNY_WH.csproj.CopyComplete
 D:\03. Source\VTStek_Training\CNY_WH\obj\Debug\CNY_WH.dll
 D:\03. Source\VTStek_Training\CNY_WH\obj\Debug\CNY_WH.pdb
+D:\03. Source\VTStek_Training\CNY_WH\obj\Debug\CNY_WH.WForm.Frm008Manufacturer.resources

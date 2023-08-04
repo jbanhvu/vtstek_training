@@ -117,6 +117,7 @@
     <Compile Include="Info\Inf_001Stock.cs" />
     <Compile Include="Info\Inf_002ReceiptNote.cs" />
     <Compile Include="Info\Inf_003ReceiptNoteDetail.cs" />
+    <Compile Include="Info\Inf_003StockType.cs" />
     <Compile Include="Info\Inf_MaterialReleaseOrder.cs" />
     <Compile Include="Info\Inf_ProductionOrderWizard.cs" />
     <Compile Include="Info\Inf_StockDocumentRequest.cs" />
@@ -233,6 +234,18 @@
     </Compile>
     <Compile Include="WForm\Frm002ReceiptNote.Designer.cs">
       <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm003StockType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm003StockType.Designer.cs">
+      <DependentUpon>Frm003StockType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.Designer.cs">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
     </Compile>
     <Compile Include="WForm\FrmWHAllocation.cs">
       <SubType>Form</SubType>
@@ -369,6 +382,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\Frm002ReceiptNote.resx">
       <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm008Manufacturer.resx">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmWHAllocation.resx">
       <DependentUpon>FrmWHAllocation.cs</DependentUpon>
