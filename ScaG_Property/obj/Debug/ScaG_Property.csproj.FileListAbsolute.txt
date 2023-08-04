@@ -1,0 +1,8 @@
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_Property\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_Property\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_Property\obj\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_Property\obj\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\ScaG_Property.pdb

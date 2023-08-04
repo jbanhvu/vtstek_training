@@ -1,0 +1,36 @@
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+C:\Users\MinhThuan\Desktop\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+C:\Users\MinhThuan\Desktop\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+C:\Users\nguye\Desktop\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+C:\Users\nguye\Desktop\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_Property\obj\Debug\CNY_Property.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_Property\bin\Debug\CNY_Property.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_Property\bin\Debug\CNY_Property.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_Property\obj\Debug\CNY_Property.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_Property\obj\Debug\CNY_Property.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_Property\obj\Debug\CNY_Property.pdb
+D:\Source Code\CNY_New\ScaG_Property\bin\Debug\CNY_Property.dll
+D:\Source Code\CNY_New\ScaG_Property\bin\Debug\CNY_Property.pdb
+D:\Source Code\CNY_New\ScaG_Property\obj\Debug\CNY_Property.csproj.CoreCompileInputs.cache
+D:\Source Code\CNY_New\ScaG_Property\obj\Debug\CNY_Property.dll
+D:\Source Code\CNY_New\ScaG_Property\obj\Debug\CNY_Property.pdb
+D:\03. Source\VTStek\ScaG_Property\bin\Debug\CNY_Property.dll
+D:\03. Source\VTStek\ScaG_Property\bin\Debug\CNY_Property.pdb
+D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.csproj.CoreCompileInputs.cache
+D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.dll
+D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.pdb

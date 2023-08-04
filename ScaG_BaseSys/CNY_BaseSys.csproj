@@ -1,0 +1,1309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{387B3AB4-AE2B-4CF5-B75F-7AC786023BFC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNY_BaseSys</RootNamespace>
+    <AssemblyName>CNY_BaseSys</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataVisualization.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.TreeMap.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v21.2.Drawing, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Wizard, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPdfViewer.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2.Core.Desktop, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EngineIoClientDotNet">
+      <HintPath>..\ScaG.NET\bin\Debug\EngineIoClientDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="EnvDTE80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="EnvDTE90, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\ScaG.NET\bin\Debug\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\ScaG.NET\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ScaG.NET\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SocketIoClientDotNet">
+      <HintPath>..\ScaG.NET\bin\Debug\SocketIoClientDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VSLangProj, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="VSLangProj2, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="VSLangProj80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="WebSocket4Net">
+      <HintPath>..\ScaG.NET\bin\Debug\WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bases\BackgroundCompositePO.cs" />
+    <Compile Include="Bases\BackgroundCompositePO_ThreadPool.cs" />
+    <Compile Include="Bases\BaseProgressiveOperation.cs" />
+    <Compile Include="Bases\CompositePO.cs" />
+    <Compile Include="Class\CellAttributeInfo.cs" />
+    <Compile Include="Class\Cls001Para.cs" />
+    <Compile Include="Class\ColumnAttributeInfo.cs" />
+    <Compile Include="Class\DataFieldControl.cs" />
+    <Compile Include="Class\PasteDataFromFile.cs" />
+    <Compile Include="Class\RowAttributeInfo.cs" />
+    <Compile Include="Class\VisibleTreeGirdColumnInfo.cs" />
+    <Compile Include="CommandBarDefaultSetting.cs" />
+    <Compile Include="Common\AccessData.cs" />
+    <Compile Include="Common\AES1.cs" />
+    <Compile Include="Common\BarButtonPopupMenuInfo.cs" />
+    <Compile Include="Common\BoMFunctionGeneral.cs" />
+    <Compile Include="Common\CaptchaImage.cs" />
+    <Compile Include="Common\CellDrawHelper.cs" />
+    <Compile Include="Common\CheckboxHeaderCell.cs" />
+    <Compile Include="Common\CheckDataChangeOnControl.cs" />
+    <Compile Include="Common\CheckVisibleControl.cs" />
+    <Compile Include="Common\Cls001Constant.cs" />
+    <Compile Include="Common\Cls001GenFunctions.cs" />
+    <Compile Include="Common\Cls001MasterFiles.cs" />
+    <Compile Include="Common\ColumnsInformation.cs" />
+    <Compile Include="Common\ConstSystem.cs" />
+    <Compile Include="Common\ConstSystemStatus.cs" />
+    <Compile Include="Common\CopyDragNodeBomTree.cs" />
+    <Compile Include="Common\CopyDragNodeTreeList.cs" />
+    <Compile Include="Common\Ctrl_FinishingGenneral.cs" />
+    <Compile Include="Common\Ctrl_MRPProgress.cs" />
+    <Compile Include="Common\Ctrl_TableGeneral.cs" />
+    <Compile Include="Common\Ctrl_UpdateSortOrderNode.cs" />
+    <Compile Include="Common\CursorCreator.cs" />
+    <Compile Include="Common\CursorIcon.cs" />
+    <Compile Include="Common\CustomFocusRowRectanglel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\CustomReportPrintTool.cs" />
+    <Compile Include="Common\DateInterval.cs" />
+    <Compile Include="Common\DragData.cs" />
+    <Compile Include="Common\DragGridImageHelper.cs" />
+    <Compile Include="Common\DrawRectangleSelection.cs" />
+    <Compile Include="Common\DynamicGenerateControl.cs" />
+    <Compile Include="Common\Exceptions.cs" />
+    <Compile Include="Common\ExportPdfSendEmail.cs" />
+    <Compile Include="Common\FilterCriteriaHelper.cs" />
+    <Compile Include="Common\FilterCriteriaHelperTreeList.cs" />
+    <Compile Include="Common\FindVnGridControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\FindVnGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\FindVnGridViewInfoRegistrator.cs" />
+    <Compile Include="Common\FindVnTreeList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\FocusNextControl.cs" />
+    <Compile Include="Common\FormatGridView.cs" />
+    <Compile Include="Common\FunctionFormatModule.cs" />
+    <Compile Include="Common\GridCellColor.cs" />
+    <Compile Include="Common\GridControlMasterDetailPaging.cs" />
+    <Compile Include="Common\GridViewControlPaging.cs" />
+    <Compile Include="Common\GridViewControlPagingFinal.cs" />
+    <Compile Include="Common\GridViewMasterDetailPaging.cs" />
+    <Compile Include="Common\GridViewMasterDetailPagingFinal.cs" />
+    <Compile Include="Common\IniFile.cs" />
+    <Compile Include="Common\MasterDetailDiagram.cs" />
+    <Compile Include="Common\MathFormula.cs" />
+    <Compile Include="Common\MyDelegate.cs" />
+    <Compile Include="Common\MyEnum.cs" />
+    <Compile Include="Common\MyFindPanelFilterHelper.cs" />
+    <Compile Include="Common\MyFindPanelFilterHelperNew.cs" />
+    <Compile Include="Common\MyGridViewHandler.cs" />
+    <Compile Include="Common\MyLookUpEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\MyMergedCellInfo.cs" />
+    <Compile Include="Common\MyTreeListPrinter.cs" />
+    <Compile Include="Common\Nofitication.cs" />
+    <Compile Include="Common\NumberToText.cs" />
+    <Compile Include="Common\PopUpFiTreeList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\ProcessGeneral.cs" />
+    <Compile Include="Common\RemoveAttributeColumnOnTree.cs" />
+    <Compile Include="Common\RepositoryItemCustomSearchLookUpEditEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\SmtpSocketClient.cs" />
+    <Compile Include="Common\SmtpSocketConnection.cs" />
+    <Compile Include="Common\SpreadSheetFreezeColumn.cs" />
+    <Compile Include="Common\StringCompressor.cs" />
+    <Compile Include="Common\SystemCellColor.cs" />
+    <Compile Include="Common\SystemCodeFile.cs" />
+    <Compile Include="Common\SystemGetCodeRule.cs" />
+    <Compile Include="Common\TP_Encrypt.cs" />
+    <Compile Include="Common\TP_File.cs" />
+    <Compile Include="Common\TP_Image.cs" />
+    <Compile Include="Common\TreeListDrawRectangleSelection.cs" />
+    <Compile Include="Common\TreeListLookupFilterEdit.cs" />
+    <Compile Include="Common\TreeListMenuInfo.cs" />
+    <Compile Include="Common\TreeListMultiCellSelector.cs" />
+    <Compile Include="Common\TreeListMultiCellSelectorNew.cs" />
+    <Compile Include="Common\TreeListNodesFromNode.cs" />
+    <Compile Include="Common\TreeListSumParentNodeOperation.cs" />
+    <Compile Include="Common\Twopix.cs" />
+    <Compile Include="Common\TypeShowForm.cs" />
+    <Compile Include="Common\WorkflowStatusManager.cs" />
+    <Compile Include="Common\WorkflowStatusManagerGrid.cs" />
+    <Compile Include="DeclareSystem.cs" />
+    <Compile Include="Demo\FrmDemoProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Demo\FrmDemoProgressBar.Designer.cs">
+      <DependentUpon>FrmDemoProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Demo\GrayScalePO.cs" />
+    <Compile Include="Demo\NegativePO.cs" />
+    <Compile Include="EnDeCrypt.cs" />
+    <Compile Include="Info\Inf_Finishing.cs" />
+    <Compile Include="Info\Inf_General.cs" />
+    <Compile Include="Info\Inf_PRNew.cs" />
+    <Compile Include="Info\Inf_Progress.cs" />
+    <Compile Include="Interfaces\IAbortable.cs" />
+    <Compile Include="Interfaces\ICompositeProgressiveOperation.cs" />
+    <Compile Include="Interfaces\IProgressiveOperation.cs" />
+    <Compile Include="LinkLabelControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Threading\AbortableThreadPool.cs" />
+    <Compile Include="TransferDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCGridViewPopup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCGridViewPopup.Designer.cs">
+      <DependentUpon>XtraUCGridViewPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlBoolean.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlBoolean.Designer.cs">
+      <DependentUpon>XtraUCPanelControlBoolean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlDateTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlDateTime.Designer.cs">
+      <DependentUpon>XtraUCPanelControlDateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlDateTimeBetween.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlDateTimeBetween.Designer.cs">
+      <DependentUpon>XtraUCPanelControlDateTimeBetween.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlNumber.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlNumber.Designer.cs">
+      <DependentUpon>XtraUCPanelControlNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlNumberBetween.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlNumberBetween.Designer.cs">
+      <DependentUpon>XtraUCPanelControlNumberBetween.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlValueString.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCPanelControlValueString.Designer.cs">
+      <DependentUpon>XtraUCPanelControlValueString.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCRichText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCRichText.Designer.cs">
+      <DependentUpon>XtraUCRichText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCRichTextSendMail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCRichTextSendMail.Designer.cs">
+      <DependentUpon>XtraUCRichTextSendMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUcTreePopupFi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUcTreePopupFi.Designer.cs">
+      <DependentUpon>XtraUcTreePopupFi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm002BoMReportFi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm002BoMReportFi.Designer.cs">
+      <DependentUpon>Frm002BoMReportFi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmAllocateQty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmAllocateQty.Designer.cs">
+      <DependentUpon>FrmAllocateQty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmAttributeGenerate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmAttributeGenerate.Designer.cs">
+      <DependentUpon>FrmAttributeGenerate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmAttributeGenerateNormal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmAttributeGenerateNormal.Designer.cs">
+      <DependentUpon>FrmAttributeGenerateNormal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmConfirmCaptcha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmConfirmCaptcha.Designer.cs">
+      <DependentUpon>FrmConfirmCaptcha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmCustomDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmCustomDialog.Designer.cs">
+      <DependentUpon>FrmCustomDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmDemandProductionOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmDemandProductionOrder.Designer.cs">
+      <DependentUpon>FrmDemandProductionOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmDemandProductionOrderN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmDemandProductionOrderN.Designer.cs">
+      <DependentUpon>FrmDemandProductionOrderN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmEmailDomainList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmEmailDomainList.Designer.cs">
+      <DependentUpon>FrmEmailDomainList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmF4Grid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmF4Grid.Designer.cs">
+      <DependentUpon>FrmF4Grid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmFiAmountProductionOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmFiAmountProductionOrder.Designer.cs">
+      <DependentUpon>FrmFiAmountProductionOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmGenerateFinishing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmGenerateFinishing.Designer.cs">
+      <DependentUpon>FrmGenerateFinishing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmHelpFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmHelpFinal.Designer.cs">
+      <DependentUpon>FrmHelpFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmInput.Designer.cs">
+      <DependentUpon>FrmInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmInputAttFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmInputAttFinal.Designer.cs">
+      <DependentUpon>FrmInputAttFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmInputMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmInputMemo.Designer.cs">
+      <DependentUpon>FrmInputMemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmInputRichText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmInputRichText.Designer.cs">
+      <DependentUpon>FrmInputRichText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmListEmailCommon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmListEmailCommon.Designer.cs">
+      <DependentUpon>FrmListEmailCommon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WForm\FrmModalCompositeProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmModalCompositeProgressForm.Designer.cs">
+      <DependentUpon>FrmModalCompositeProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmModalProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmModalProgressForm.Designer.cs">
+      <DependentUpon>FrmModalProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmPrintOptionFi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmPrintOptionFi.Designer.cs">
+      <DependentUpon>FrmPrintOptionFi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmPRN_DateSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmPRN_DateSelect.Designer.cs">
+      <DependentUpon>FrmPRN_DateSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmQBRWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmQBRWord.Designer.cs">
+      <DependentUpon>FrmQBRWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmSearch.Designer.cs">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmSendMailMultiAttach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmSendMailMultiAttach.Designer.cs">
+      <DependentUpon>FrmSendMailMultiAttach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmStatusListGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmStatusListGeneral.Designer.cs">
+      <DependentUpon>FrmStatusListGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTDG00002_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTDG00002_Search.Designer.cs">
+      <DependentUpon>FrmTDG00002_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTransferData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTransferData.Designer.cs">
+      <DependentUpon>FrmTransferData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTransferDataNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTransferDataNew.Designer.cs">
+      <DependentUpon>FrmTransferDataNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTreeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTreeEmail.Designer.cs">
+      <DependentUpon>FrmTreeEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmViewImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmViewImage.Designer.cs">
+      <DependentUpon>FrmViewImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmViewImageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmViewImageProduct.Designer.cs">
+      <DependentUpon>FrmViewImageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\rpt002BoMReportFi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WForm\rpt002BoMReportFi.Designer.cs">
+      <DependentUpon>rpt002BoMReportFi.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Demo\FrmDemoProgressBar.resx">
+      <DependentUpon>FrmDemoProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlBoolean.resx">
+      <DependentUpon>XtraUCPanelControlBoolean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlDateTime.resx">
+      <DependentUpon>XtraUCPanelControlDateTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlDateTimeBetween.resx">
+      <DependentUpon>XtraUCPanelControlDateTimeBetween.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlNumber.resx">
+      <DependentUpon>XtraUCPanelControlNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlNumberBetween.resx">
+      <DependentUpon>XtraUCPanelControlNumberBetween.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCPanelControlValueString.resx">
+      <DependentUpon>XtraUCPanelControlValueString.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCRichText.resx">
+      <DependentUpon>XtraUCRichText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCRichTextSendMail.resx">
+      <DependentUpon>XtraUCRichTextSendMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUcTreePopupFi.resx">
+      <DependentUpon>XtraUcTreePopupFi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm002BoMReportFi.resx">
+      <DependentUpon>Frm002BoMReportFi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmAllocateQty.resx">
+      <DependentUpon>FrmAllocateQty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmAttributeGenerate.resx">
+      <DependentUpon>FrmAttributeGenerate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmAttributeGenerateNormal.resx">
+      <DependentUpon>FrmAttributeGenerateNormal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmConfirmCaptcha.resx">
+      <DependentUpon>FrmConfirmCaptcha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmCustomDialog.resx">
+      <DependentUpon>FrmCustomDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmDemandProductionOrder.resx">
+      <DependentUpon>FrmDemandProductionOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmDemandProductionOrderN.resx">
+      <DependentUpon>FrmDemandProductionOrderN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmEmailDomainList.resx">
+      <DependentUpon>FrmEmailDomainList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmFiAmountProductionOrder.resx">
+      <DependentUpon>FrmFiAmountProductionOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmGenerateFinishing.resx">
+      <DependentUpon>FrmGenerateFinishing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmHelpFinal.resx">
+      <DependentUpon>FrmHelpFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmInput.resx">
+      <DependentUpon>FrmInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmInputAttFinal.resx">
+      <DependentUpon>FrmInputAttFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmInputMemo.resx">
+      <DependentUpon>FrmInputMemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmInputRichText.resx">
+      <DependentUpon>FrmInputRichText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmListEmailCommon.resx">
+      <DependentUpon>FrmListEmailCommon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmModalCompositeProgressForm.resx">
+      <DependentUpon>FrmModalCompositeProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmModalProgressForm.resx">
+      <DependentUpon>FrmModalProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmPrintOptionFi.resx">
+      <DependentUpon>FrmPrintOptionFi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmPRN_DateSelect.resx">
+      <DependentUpon>FrmPRN_DateSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmQBRWord.resx">
+      <DependentUpon>FrmQBRWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmSearch.resx">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmSendMailMultiAttach.resx">
+      <DependentUpon>FrmSendMailMultiAttach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmStatusListGeneral.resx">
+      <DependentUpon>FrmStatusListGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTDG00002_Search.resx">
+      <DependentUpon>FrmTDG00002_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTransferData.resx">
+      <DependentUpon>FrmTransferData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTransferDataNew.resx">
+      <DependentUpon>FrmTransferDataNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTreeEmail.resx">
+      <DependentUpon>FrmTreeEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmViewImage.resx">
+      <DependentUpon>FrmViewImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmViewImageProduct.resx">
+      <DependentUpon>FrmViewImageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\rpt002BoMReportFi.resx">
+      <DependentUpon>rpt002BoMReportFi.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\closex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\collapse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\cost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\db.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\fee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\guest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\infor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\kind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\lease.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\lgout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\loginx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\logon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\registry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grid-Wizard-2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Work Sheet-Auto Format.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Summary.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copye.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copye1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ScaG_Property\CNY_Property.csproj">
+      <Project>{BFB72479-F1F8-4DF3-9918-9494DCBBAE46}</Project>
+      <Name>CNY_Property</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ranesize.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checking.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231715_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231837_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_currency_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-send-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Other-drive-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-Info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-dialog-warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck-with-Site-Office-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wire-transfer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_stock_person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload-Information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_BreakDown_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Cancel_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Check_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Close_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Collosepand_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Combine_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Copy_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Delete_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Edit_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Expand_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Find_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Generate_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Print_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_RangeSize_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Refresh_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Revision_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Save_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletelist_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Delete_32x32_New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfirmMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RejectedMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Confirm_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Confirm_32x32_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Reject_32x32_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh2_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\freeze_column_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papersize_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagemargins_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertpagebreak_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiplepages_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289456_bullet_toggle_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289438_bullet_toggle_minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reverssort_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Full-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assembly_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RawMaterial_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoItem_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordwrap_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_24x24_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_28x28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_28x28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_28x28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_28x28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tran Duc Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-5-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-6-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-7-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-8-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-9-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-0-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon_8_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-4-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chk_un_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chk_ch_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Product_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewonweb_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculationoptions_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changefontstyle_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editname_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-txt-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidedetail_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send_26x26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\findcustomers_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\findcustomers_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendpdf_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendpdf_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertsheet_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheet_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheet_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertsheet_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inserttableofequations_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inserttableofequations_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masterfilter_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printernetwork_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x163.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

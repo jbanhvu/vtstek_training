@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE9C4C2D-51ED-4B31-BB42-00E4ED080B45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNY_Main</RootNamespace>
+    <AssemblyName>CNY_Main</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\ScaG.NET.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\ScaG.NET.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo_tek.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v21.2.Win, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Diagram.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dialogs.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataVisualization.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Mvvm.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.2.Drawing, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.TreeMap.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Wizard, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDiagram.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDialogs.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGantt.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Presets, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Win, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2.Core.Desktop, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EngineIoClientDotNet, Version=0.9.22.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\EngineIoClientDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.3.3, Culture=neutral, PublicKeyToken=8985beaab7ea3f04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.3.3, Culture=neutral, PublicKeyToken=8985beaab7ea3f04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RazorEngine, Version=3.10.0.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a, processorArchitecture=MSIL">
+      <HintPath>..\packages\RazorEngine.3.10.0\lib\net45\RazorEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="SocketIoClientDotNet, Version=0.9.13.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SocketIoClientDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.0.0\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebSocket4Net, Version=0.14.1.0, Culture=neutral, PublicKeyToken=eb4e154b696bf72a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\SystemLoginInfo.cs" />
+    <Compile Include="Class\TempParameter.cs" />
+    <Compile Include="Class\VirtualKeyStates.cs" />
+    <Compile Include="Contrl\Ctr_Login.cs" />
+    <Compile Include="Contrl\Ctr_Main.cs" />
+    <Compile Include="Contrl\CustomDockPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Contrl\MyDelegate.cs" />
+    <Compile Include="Contrl\StandardTable.cs" />
+    <Compile Include="FrmAboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutForm.Designer.cs">
+      <DependentUpon>FrmAboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfigSQLServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfigSQLServer.Designer.cs">
+      <DependentUpon>FrmConfigSQLServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStartup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStartup.Designer.cs">
+      <DependentUpon>FrmStartup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\inf_Login.cs" />
+    <Compile Include="Info\inf_Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleInstance.cs" />
+    <Compile Include="WinApi.cs" />
+    <EmbeddedResource Include="FrmAboutForm.resx">
+      <DependentUpon>FrmAboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfigSQLServer.resx">
+      <DependentUpon>FrmConfigSQLServer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStartup.resx">
+      <DependentUpon>FrmStartup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\CNY_Main.exe.config" />
+    <None Include="bin\Debug\CNY_Main.vshost.exe.config" />
+    <None Include="bin\Debug\CNY_Main.vshost.exe.manifest" />
+    <None Include="bin\Debug\Extension\ScaX.ini" />
+    <None Include="bin\Debug\Extension\Version.ini" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\closex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\collapse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\cost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\db.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\fee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\guest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\infor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\kind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\lease.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\lgout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\loginx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\logon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\registry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Scavi Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CNY_Report\CNY_Report.csproj">
+      <Project>{2d889563-6a24-4f75-9f28-95ead43d1a3c}</Project>
+      <Name>CNY_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CNY_SI\CNY_SI.csproj">
+      <Project>{2c3f4350-9766-4150-84c6-647020a4955d}</Project>
+      <Name>CNY_SI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CNY_WH\CNY_WH.csproj">
+      <Project>{e0832e50-5abb-4fac-be87-c3c6e65269e6}</Project>
+      <Name>CNY_WH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_AdminSys\CNY_AdminSys.csproj">
+      <Project>{9722F4CF-2582-4A77-B40C-FDA1BF2CE9E8}</Project>
+      <Name>CNY_AdminSys</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_BaseSys\CNY_BaseSys.csproj">
+      <Project>{387B3AB4-AE2B-4CF5-B75F-7AC786023BFC}</Project>
+      <Name>CNY_BaseSys</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_Property\CNY_Property.csproj">
+      <Project>{BFB72479-F1F8-4DF3-9918-9494DCBBAE46}</Project>
+      <Name>CNY_Property</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CNY_Main.vshost.exe" />
+    <Content Include="bin\Debug\copy.ico" />
+    <Content Include="bin\Debug\delete.ico" />
+    <Content Include="bin\Debug\move.ico" />
+    <Content Include="cny_icon_12.ico" />
+    <Content Include="CORELE.ico" />
+    <Content Include="CoreleIconPro.ico" />
+    <Content Include="corelFinal.ico" />
+    <Content Include="CorelIcon.ico" />
+    <Content Include="Image\Books.bmp" />
+    <Content Include="Image\Bullet.bmp" />
+    <Content Include="Image\Image2.bmp" />
+    <None Include="Resources\1404754495_fileclose.png" />
+    <None Include="Resources\logout_01.png" />
+    <None Include="Resources\backgroundFinalS.png" />
+    <None Include="Resources\logo_Scavi.png" />
+    <None Include="Resources\backgroundFinalSFF.png" />
+    <None Include="Resources\CORELE.png" />
+    <None Include="Resources\Company-icon.png" />
+    <None Include="Resources\corporate-business-banner.png" />
+    <None Include="Resources\switchtimescalesto_16x16.png" />
+    <None Include="Resources\Login-icon.png" />
+    <None Include="Resources\colors_16x16.png" />
+    <None Include="Resources\colors_32x32.png" />
+    <None Include="Resources\ColorMixer_32x32.png" />
+    <None Include="Resources\LoginPanelWindows8.jpg" />
+    <None Include="Resources\close-group_1.png" />
+    <None Include="Resources\login_new_1.png" />
+    <None Include="Resources\login2_1.png" />
+    <None Include="Resources\logout_1234.png" />
+    <None Include="Resources\Actions-arrow.png" />
+    <None Include="Resources\011.jpg" />
+    <None Include="Resources\012.jpg" />
+    <None Include="Resources\1400231715_Add.png" />
+    <None Include="Resources\1400231837_Delete.png" />
+    <None Include="Resources\1402651029_stock_new-meeting.png" />
+    <None Include="Resources\1406717444_quantity_capsule_5.png" />
+    <None Include="Resources\16.jpg" />
+    <None Include="Resources\17.jpg" />
+    <None Include="Resources\144.jpg" />
+    <None Include="Resources\195-barcode-icon.png" />
+    <None Include="Resources\20140606020434276_easyicon_net_24.png" />
+    <None Include="Resources\Actions-go-last-view-icon.png" />
+    <None Include="Resources\Actions-go-last-view-icon_32.png" />
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+    <None Include="Resources\Actions-go-next-view-icon_32.png" />
+    <None Include="Resources\Actions-go-first-view-icon.png" />
+    <None Include="Resources\Actions-go-first-view-icon_32.png" />
+    <None Include="Resources\Actions-edit-clear-history-icon.png" />
+    <None Include="Resources\Actions-document-export-icon.png" />
+    <None Include="Resources\Actions-dialog-ok-icon.png" />
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+    <None Include="Resources\20140606020411133_easyicon_net_24.png" />
+    <None Include="Resources\add_user.png" />
+    <None Include="Resources\addP.png" />
+    <None Include="Resources\add-user-icon_32.png" />
+    <None Include="Resources\agt_update_recommended1.png" />
+    <None Include="Resources\application-form-add-icon.png" />
+    <None Include="Resources\Actions-go-previous-view-icon_32.png" />
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+    <None Include="Resources\Apps-system-software-update-icon_18.png" />
+    <None Include="Resources\arrow-right-icon.png" />
+    <None Include="Resources\Apps-system-software-update-icon.png" />
+    <None Include="Resources\arrow_undo.png" />
+    <None Include="Resources\arrow_redo.png" />
+    <None Include="Resources\backgroudFormSQL.bmp" />
+    <None Include="Resources\bacground_sql_2.bmp" />
+    <None Include="Resources\bacground_sql_2_0.bmp" />
+    <None Include="Resources\backgroundBusiness.png" />
+    <None Include="Resources\bgF.png" />
+    <None Include="Resources\Basic-Plus-icon.png" />
+    <None Include="Resources\backgroundMain.png" />
+    <None Include="Resources\bgSQLF.png" />
+    <None Include="Resources\bgSQL.bmp" />
+    <None Include="Resources\Box-icon.png" />
+    <None Include="Resources\bgWhite.bmp" />
+    <None Include="Resources\Bloc-notes-icon.png" />
+    <None Include="Resources\check_metro_check_1.jpg" />
+    <None Include="Resources\check_metro_nocheck.png" />
+    <None Include="Resources\check_metro_check.png" />
+    <None Include="Resources\checkbox_empty_15.jpg" />
+    <None Include="Resources\checkbox_empty_18.jpg" />
+    <None Include="Resources\checkbox_full.png" />
+    <None Include="Resources\checkbox_full_15.jpg" />
+    <None Include="Resources\check_metro_nocheck_1.jpg" />
+    <None Include="Resources\checkbox_empty.png" />
+    <None Include="Resources\christmas-tree-icon_1.png" />
+    <None Include="Resources\Clock-icon.png" />
+    <None Include="Resources\closed_folder.png" />
+    <None Include="Resources\checkbox_full_18.jpg" />
+    <None Include="Resources\christmas-tree-2-icon.png" />
+    <None Include="Resources\Christmas-tree-icon.png" />
+    <None Include="Resources\coins-icon.png" />
+    <None Include="Resources\Computer-icon.png" />
+    <None Include="Resources\Company-icon_24_24.png" />
+    <None Include="Resources\copy_32_32.png" />
+    <None Include="Resources\contract_pencil_24x24.png" />
+    <None Include="Resources\contract_pencil.png" />
+    <None Include="Resources\Database-Active-icon.png" />
+    <None Include="Resources\database-add-icon_1.png" />
+    <None Include="Resources\custom-reports-icon.png" />
+    <None Include="Resources\data-add-icon.png" />
+    <None Include="Resources\database-search-icon.png" />
+    <None Include="Resources\data-edit-icon.png" />
+    <None Include="Resources\delete.ico" />
+    <None Include="Resources\delete_32_32.png" />
+    <None Include="Resources\database-check-icon.png" />
+    <None Include="Resources\database-process-icon_2.png" />
+    <None Include="Resources\DLL-icon.png" />
+    <None Include="Resources\document-contract-icon.png" />
+    <None Include="Resources\document-excel-icon.png" />
+    <None Include="Resources\Document-scheduled-tasks-icon.png" />
+    <None Include="Resources\Developer-icon.png" />
+    <None Include="Resources\Developer-icon_1.jpg" />
+    <None Include="Resources\edit_add.png" />
+    <None Include="Resources\editP.png" />
+    <None Include="Resources\email-send-icon.png" />
+    <None Include="Resources\excel_2003_2_01.png" />
+    <None Include="Resources\dollar_currency_sign.png" />
+    <None Include="Resources\file_export.png" />
+    <None Include="Resources\file_export_20.png" />
+    <None Include="Resources\fileclose_10.png" />
+    <None Include="Resources\Exitimage.png" />
+    <None Include="Resources\export_icon_32.png" />
+    <None Include="Resources\ExportData.png" />
+    <None Include="Resources\folder-documents-icon.png" />
+    <None Include="Resources\Folder-Group-icon.png" />
+    <None Include="Resources\folder-yellow-Close-icon.png" />
+    <None Include="Resources\folder-yellow-open-icon.png" />
+    <None Include="Resources\file-extension-dll-icon.png" />
+    <None Include="Resources\file-import-20.png" />
+    <None Include="Resources\groupevent.png" />
+    <None Include="Resources\gtk_refresh.png" />
+    <None Include="Resources\hBarcode.jpg" />
+    <None Include="Resources\hBarcode202.jpg" />
+    <None Include="Resources\gnome_panel_force_quit.png" />
+    <None Include="Resources\gnome_stock_person.png" />
+    <None Include="Resources\hookshap2.png" />
+    <None Include="Resources\hooksharp.png" />
+    <None Include="Resources\HorinalLine.png" />
+    <None Include="Resources\HorinalLine_1.png" />
+    <None Include="Resources\hPanelLine.png" />
+    <None Include="Resources\hPanelLine1.png" />
+    <None Include="Resources\HPermissionLine.png" />
+    <None Include="Resources\HP-Recycle-Empty-icon.png" />
+    <None Include="Resources\HP-Recycle-Full-icon.png" />
+    <None Include="Resources\ic_finance_bulding_16.png" />
+    <None Include="Resources\HBVLine.png" />
+    <None Include="Resources\hookshap1.png" />
+    <None Include="Resources\industry-icon.png" />
+    <None Include="Resources\information-icon.png" />
+    <None Include="Resources\key-icon.png" />
+    <None Include="Resources\login_1234.png" />
+    <None Include="Resources\imageconfig.png" />
+    <None Include="Resources\Increase-icon.png" />
+    <None Include="Resources\Mimetype-schedule-icon.png" />
+    <None Include="Resources\Mimetypes-ini-icon.png" />
+    <None Include="Resources\maintenance-icon.png" />
+    <None Include="Resources\man-icon.png" />
+    <None Include="Resources\Map-Marker-Marker-Inside-Chartreuse-icon.png" />
+    <None Include="Resources\Map-Marker-Push-Pin-1-Left-Azure-icon.png" />
+    <None Include="Resources\menu-icon.png" />
+    <None Include="Resources\move.ico" />
+    <None Include="Resources\move.png" />
+    <None Include="Resources\move_32_32.png" />
+    <None Include="Resources\new-file-icon_20.png" />
+    <None Include="Resources\Notepad-Bloc-notes-2-icon.png" />
+    <None Include="Resources\Notepad-Bloc-notes-icon.png" />
+    <None Include="Resources\Number-0-icon.png" />
+    <None Include="Resources\Number-1-icon.png" />
+    <None Include="Resources\Number-2-icon.png" />
+    <None Include="Resources\Misc-Graphics-icon.png" />
+    <None Include="Resources\Misc-Web-Database-icon.png" />
+    <None Include="Resources\money-bag-icon.png" />
+    <None Include="Resources\Number-5-icon.png" />
+    <None Include="Resources\Number-6-icon.png" />
+    <None Include="Resources\Number-7-icon.png" />
+    <None Include="Resources\Number-8-icon.png" />
+    <None Include="Resources\Number-9-icon.png" />
+    <None Include="Resources\offersheet.png" />
+    <None Include="Resources\office-building-icon.png" />
+    <None Include="Resources\open_folder.png" />
+    <None Include="Resources\OperationBreakdownExport.png" />
+    <None Include="Resources\Other-drive-icon.png" />
+    <None Include="Resources\Number-3-icon.png" />
+    <None Include="Resources\Number-4-icon.png" />
+    <None Include="Resources\preferences_kcalc_constants.png" />
+    <None Include="Resources\Process-Accept-icon.png" />
+    <None Include="Resources\remove_user.png" />
+    <None Include="Resources\sales-report-icon.png" />
+    <None Include="Resources\sales-report-icon_24.png" />
+    <None Include="Resources\save_01.png" />
+    <None Include="Resources\Save-icon_11.png" />
+    <None Include="Resources\password-icon.png" />
+    <None Include="Resources\payment-icon.png" />
+    <None Include="Resources\pin_blue.png" />
+    <None Include="Resources\Scavi Logo_f.png" />
+    <None Include="Resources\Scavi Logo_Final.png" />
+    <None Include="Resources\Search_image.png" />
+    <None Include="Resources\server.png" />
+    <None Include="Resources\Settings-icon.png" />
+    <None Include="Resources\Shopping-delivery-icon.png" />
+    <None Include="Resources\Sign-Info-icon.png" />
+    <None Include="Resources\user-group-icon_24.png" />
+    <None Include="Resources\user-group-icon_32.png" />
+    <None Include="Resources\vBarcode.jpg" />
+    <None Include="Resources\Status-dialog-warning-icon.png" />
+    <None Include="Resources\table-import-icon.png" />
+    <None Include="Resources\thoat.png" />
+    <None Include="Resources\Time-Timer-icon.png" />
+    <None Include="Resources\Truck-with-Site-Office-icon.png" />
+    <None Include="Resources\Upload-Information-icon.png" />
+    <None Include="Resources\user_child.png" />
+    <None Include="Resources\user_parent.png" />
+    <None Include="Resources\VerticalLine_1.png" />
+    <None Include="Resources\Very-Basic-clock-icon.png" />
+    <None Include="Resources\video_chat.png" />
+    <None Include="Resources\vBarcode41.jpg" />
+    <None Include="Resources\VBVLine.png" />
+    <None Include="Resources\verticalLine.png" />
+    <None Include="Resources\wire-transfer-icon.png" />
+    <None Include="Resources\wlm.png" />
+    <None Include="Resources\viewbutton.png" />
+    <None Include="Resources\voice_chat.png" />
+    <None Include="Resources\VPermissionLine.png" />
+    <None Include="Resources\watchVideo.png" />
+    <None Include="Resources\Unknown-user.png" />
+    <None Include="Resources\CORELE.ico" />
+    <None Include="Resources\CORELELOGO.png" />
+    <None Include="Resources\CORELEFINALFULL.png" />
+    <None Include="Resources\backgroundFinalSFFFull.png" />
+    <None Include="Resources\CORELEFINALFULL_1.png" />
+    <None Include="Resources\bgChartFinal.png" />
+    <None Include="Resources\logout_12345678.png" />
+    <None Include="Resources\ide_16x16.png" />
+    <None Include="Resources\team_16x16.png" />
+    <None Include="Resources\savepagesetup_16x16.png" />
+    <None Include="Resources\customization_16x16.png" />
+    <None Include="Resources\wizard_16x16.png" />
+    <None Include="Resources\showworktimeonly_16x16.png" />
+    <None Include="Resources\cellsautoheight-_16x16.png" />
+    <None Include="Resources\drilldownonarguments_chart_16x16.png" />
+    <None Include="Resources\mail_16x16.png" />
+    <None Include="Resources\Document-txt-icon.png" />
+    <None Include="Resources\editcontact_16x16.png" />
+    <None Include="Resources\saveall_16x16.png" />
+    <None Include="Resources\close_16x16.png" />
+    <None Include="Resources\Hide_blue_arrow_down.png" />
+    <None Include="Resources\insertrangefilter_16x16.png" />
+    <None Include="Resources\saveandnew_16x16.png" />
+    <None Include="Resources\scripts_32x32.png" />
+    <None Include="Resources\Code_Central.png" />
+    <None Include="Resources\Info_32x32.png" />
+    <None Include="Resources\system_software_update.png" />
+    <None Include="Resources\2015-05-17_0-21-17 copy.png" />
+    <None Include="Resources\time_16x16.png" />
+    <None Include="Resources\timelineview_16x16.png" />
+    <None Include="Resources\documentmap_32x32.png" />
+    <None Include="Resources\documentmap_16x16.png" />
+    <None Include="Resources\convert_32x32.png" />
+    <None Include="Resources\convert_16x16.png" />
+    <None Include="Resources\splitappointment_32x32.png" />
+    <None Include="Resources\splitappointment_16x16.png" />
+    <None Include="Resources\copy_32x32.png" />
+    <None Include="Resources\copy_16x16.png" />
+    <None Include="Resources\wizard_32x32.png" />
+    <None Include="Resources\wizard_16x161.png" />
+    <None Include="Resources\breakingchange_32x32.png" />
+    <None Include="Resources\breakingchange_16x16.png" />
+    <None Include="Resources\forcetesting_32x32.png" />
+    <None Include="Resources\forcetesting_16x16.png" />
+    <None Include="Resources\selectall_32x32.png" />
+    <None Include="Resources\selectall_16x16.png" />
+    <None Include="Resources\highlightactiveelements_32x32.png" />
+    <None Include="Resources\highlightactiveelements_16x16.png" />
+    <None Include="Resources\expand_basic_green_32_32.png" />
+    <None Include="Resources\collapse_basic_green_32_32.png" />
+    <None Include="Resources\addfile_32x32.png" />
+    <None Include="Resources\addfile_16x16.png" />
+    <None Include="Resources\edit_32x32.png" />
+    <None Include="Resources\edit_16x16.png" />
+    <None Include="Resources\removeitem_32x32.png" />
+    <None Include="Resources\removeitem_16x16.png" />
+    <None Include="Resources\cancel_32x32.png" />
+    <None Include="Resources\cancel_16x16.png" />
+    <None Include="Resources\refresh_32x32.png" />
+    <None Include="Resources\refresh_16x16.png" />
+    <None Include="Resources\crossdatasourcefiltering_32x32.png" />
+    <None Include="Resources\findcustomers_32x32.png" />
+    <None Include="Resources\findcustomers_16x16.png" />
+    <None Include="Resources\print_32x32.png" />
+    <None Include="Resources\print_16x16.png" />
+    <None Include="Resources\close_32x32.png" />
+    <None Include="Resources\close_16x161.png" />
+    <None Include="Resources\historyitem_32x32.png" />
+    <None Include="Resources\historyitem_16x16.png" />
+    <None Include="Resources\navigationbar_32x32.png" />
+    <None Include="Resources\navigationbar_16x16.png" />
+    <None Include="Resources\saveandnew_32x32.png" />
+    <None Include="Resources\saveandnew_16x161.png" />
+    <None Include="Resources\save_32x32.png" />
+    <None Include="Resources\save_16x16.png" />
+    <None Include="Resources\fullscreen_32_32.png" />
+    <None Include="Resources\exitfullscreen_32_32.png" />
+    <None Include="Resources\exitfullscreen_30_30.png" />
+    <None Include="Resources\fullscreen_30_30.png" />
+    <None Include="Resources\exitfullscreen_28_28.png" />
+    <None Include="Resources\fullscreen_28_28.png" />
+    <None Include="Resources\System_Add_32x32.png" />
+    <None Include="Resources\System_Edit_32x32.png" />
+    <None Include="Resources\System_Delete_32x32.png" />
+    <None Include="Resources\System_Save_32x32.png" />
+    <None Include="Resources\System_Cancel_32x32.png" />
+    <None Include="Resources\System_Refresh_32x32.png" />
+    <None Include="Resources\System_Find_32x32.png" />
+    <None Include="Resources\System_Print_32x32.png" />
+    <None Include="Resources\System_Expand_32x32.png" />
+    <None Include="Resources\System_Collosepand_32x32.png" />
+    <None Include="Resources\System_Close_32x32.png" />
+    <None Include="Resources\System_Revision_32x32.png" />
+    <None Include="Resources\System_BreakDown_32x32.png" />
+    <None Include="Resources\System_RangeSize_32x32.png" />
+    <None Include="Resources\System_Copy_32x32.png" />
+    <None Include="Resources\System_Generate_32x32.png" />
+    <None Include="Resources\System_Combine_32x32.png" />
+    <None Include="Resources\System_Check_32x32.png" />
+    <None Include="Resources\barcode_32x32.png" />
+    <None Include="Resources\barcode_16x16.png" />
+    <None Include="Resources\database_32x32.png" />
+    <None Include="Resources\database_16x16.png" />
+    <None Include="Resources\chartyaxissettings_32x32.png" />
+    <None Include="Resources\chartyaxissettings_16x16.png" />
+    <None Include="Resources\progressbar-icon_32_32.png" />
+    <None Include="Resources\technology_32x32.png" />
+    <None Include="Resources\technology_16x16.png" />
+    <None Include="Resources\deletelist_32x32.png" />
+    <None Include="Resources\deletelist_16x16.png" />
+    <None Include="Resources\knowledgebasearticle_16x16.png" />
+    <None Include="Resources\sendbehindtext_16x16.png" />
+    <None Include="Resources\suggestion_16x16.png" />
+    <None Include="Resources\home_32x32.png" />
+    <None Include="Resources\home_16x16.png" />
+    <None Include="Resources\Tran Duc Logo.png" />
+    <None Include="Resources\Tran_Duc_Logo_82_40.png" />
+    <None Include="Resources\Tran_Duc_Logo_103_50.png" />
+    <None Include="Resources\cny_logo.png" />
+    <None Include="Resources\cny_logo_60x60.png" />
+    <None Include="Resources\cny_logo_55x55.png" />
+    <None Include="Resources\managedatasource_32x32.png" />
+    <None Include="Resources\managedatasource_16x16.png" />
+    <None Include="Resources\changedatasourcepivottable_32x32.png" />
+    <None Include="Resources\changedatasourcepivottable_16x16.png" />
+    <None Include="Resources\selectdatamember_32x32.png" />
+    <None Include="Resources\selectdatamember_16x16.png" />
+    <None Include="Resources\ide_24x24.png" />
+    <None Include="Resources\download_28x28.png" />
+    <None Include="Resources\document_view.png" />
+    <None Include="Resources\exitnoti.png" />
+    <None Include="Resources\notificationicon.png" />
+    <None Include="Resources\feature_16x16.png" />
+    <None Include="Resources\feature_32x32.png" />
+    <None Include="Resources\feature_16x161.png" />
+    <None Include="Resources\feature_32x321.png" />
+    <None Include="Resources\inserttableofequations_32x32.png" />
+    <None Include="Resources\inserttableofequations_16x16.png" />
+    <None Include="Resources\printernetwork_32x32.png" />
+    <None Include="Resources\printernetwork_16x16.png" />
+    <None Include="Resources\printlayoutview_16x16.png" />
+    <None Include="Resources\Hospitality_Furniture_1.jpg" />
+    <None Include="Resources\LogoVTStek.jpg" />
+    <Content Include="logo_tek.ico" />
+    <None Include="Resources\logo_tek.png" />
+    <Content Include="Scagarment.ico" />
+    <None Include="Resources\Scagarment.ico" />
+    <None Include="Resources\logout1.png" />
+    <None Include="Resources\logoscavi.png" />
+    <None Include="Resources\logonFinal.png" />
+    <None Include="Resources\backgroundFinal.png" />
+    <None Include="Resources\copy.png" />
+    <None Include="Resources\copy.ico" />
+    <None Include="Image\logon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Report\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
