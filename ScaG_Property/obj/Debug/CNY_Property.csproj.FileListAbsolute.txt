@@ -34,3 +34,9 @@ D:\03. Source\VTStek\ScaG_Property\bin\Debug\CNY_Property.pdb
 D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.csproj.CoreCompileInputs.cache
 D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.dll
 D:\03. Source\VTStek\ScaG_Property\obj\Debug\CNY_Property.pdb
+D:\C#\vtstek_training\ScaG_Property\bin\Debug\CNY_Property.dll
+D:\C#\vtstek_training\ScaG_Property\bin\Debug\CNY_Property.pdb
+D:\C#\vtstek_training\ScaG_Property\obj\Debug\CNY_Property.csproj.AssemblyReference.cache
+D:\C#\vtstek_training\ScaG_Property\obj\Debug\CNY_Property.csproj.CoreCompileInputs.cache
+D:\C#\vtstek_training\ScaG_Property\obj\Debug\CNY_Property.dll
+D:\C#\vtstek_training\ScaG_Property\obj\Debug\CNY_Property.pdb

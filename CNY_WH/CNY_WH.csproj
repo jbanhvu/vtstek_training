@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CNY_WH</RootNamespace>
     <AssemblyName>CNY_WH</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -56,6 +56,8 @@
     <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.DataVisualization.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.TreeMap.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraTreeMap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Docs.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -85,13 +87,19 @@
     <Reference Include="DevExpress.XtraSpreadsheet.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.OracleClient" />
     <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
@@ -117,6 +125,9 @@
     <Compile Include="Info\Inf_001Stock.cs" />
     <Compile Include="Info\Inf_002ReceiptNote.cs" />
     <Compile Include="Info\Inf_003ReceiptNoteDetail.cs" />
+    <Compile Include="Info\Inf_008Manufacturer.cs" />
+    <Compile Include="Info\Inf_009Survey.cs" />
+    <Compile Include="Info\Inf_010BusinessTripDetail.cs" />
     <Compile Include="Info\Inf_MaterialReleaseOrder.cs" />
     <Compile Include="Info\Inf_ProductionOrderWizard.cs" />
     <Compile Include="Info\Inf_StockDocumentRequest.cs" />
@@ -234,6 +245,24 @@
     <Compile Include="WForm\Frm002ReceiptNote.Designer.cs">
       <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.Designer.cs">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm009Survey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm009Survey.Designer.cs">
+      <DependentUpon>Frm009Survey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm010BusinessTripDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm010BusinessTripDetail.Designer.cs">
+      <DependentUpon>Frm010BusinessTripDetail.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\FrmWHAllocation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -296,6 +325,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -310,6 +340,10 @@
     <ProjectReference Include="..\ScaG_BaseSys\CNY_BaseSys.csproj">
       <Project>{387b3ab4-ae2b-4cf5-b75f-7ac786023bfc}</Project>
       <Name>CNY_BaseSys</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_Property\CNY_Property.csproj">
+      <Project>{BFB72479-F1F8-4DF3-9918-9494DCBBAE46}</Project>
+      <Name>CNY_Property</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -369,6 +403,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\Frm002ReceiptNote.resx">
       <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm008Manufacturer.resx">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm009Survey.resx">
+      <DependentUpon>Frm009Survey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm010BusinessTripDetail.resx">
+      <DependentUpon>Frm010BusinessTripDetail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmWHAllocation.resx">
       <DependentUpon>FrmWHAllocation.cs</DependentUpon>

@@ -187,7 +187,8 @@ namespace CNY_Main
             dt.Columns.Add("ServerName", typeof(string));
             dt.Rows.Add("PRODUCTION", "PRODUCTION");
             //dt.Rows.Add("TRIAL", "EOL");
-            dt.Rows.Add("TEST", "TRAINING");
+            dt.Rows.Add("TRAINING", "TRAINING");
+            dt.Rows.Add("TEST", "TEST");
 
             lookupServer.Properties.Columns.Clear();
             lookupServer.Properties.DataSource = dt;
