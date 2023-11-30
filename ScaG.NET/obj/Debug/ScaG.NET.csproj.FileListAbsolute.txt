@@ -1,0 +1,992 @@
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmHelp.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_Net4.0\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.Shared.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Diagram.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Docs.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Map.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.SpellChecker.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraDiagram.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Win.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraMap.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraSpellChecker.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraSpreadsheet.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraWizard.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Xpo.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\FlashControlV71.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\stdole.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ShockwaveFlashObjects.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Diagram.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Docs.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Map.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraDiagram.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Win.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraMap.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraSpreadsheet.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.XtraWizard.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Xpo.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_SVN_Dev_15.2.4.1.2015\ScaG.NET\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.Shared.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Diagram.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Docs.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Map.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.SpellChecker.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraDiagram.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Win.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraMap.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraSpellChecker.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraSpreadsheet.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraWizard.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Xpo.v15.2.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\FlashControlV71.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\stdole.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ShockwaveFlashObjects.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Diagram.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Docs.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Map.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraDiagram.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGauges.v15.2.Win.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraMap.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraSpreadsheet.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.XtraWizard.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Xpo.v15.2.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Map.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.XtraWizard.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_TDG.dll
+D:\Scavi Work\SVN SOURCE CODE\ScaX_20160524\ScaG.NET\bin\Debug\ScaG_TDG.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_ACC.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_BOM.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Costing.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_HR.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Logistic.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_MO.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PO.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PP.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PRI.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Production.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SO.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Sourcing.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SPI.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SR.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_TDG.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_WH.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_ACC.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_BOM.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Logistic.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_MO.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PO.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PP.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PRI.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Sourcing.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SO.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SPI.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_TDG.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_WH.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Costing.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_HR.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_Production.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\bin\Debug\ScaG_SR.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG.NET.exe.config
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.csprojResolveAssemblyReference.cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmAboutForm.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmBarcode.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmConfigSQLServer.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmLogin.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmMain.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.FrmStartup.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\obj\Debug\ScaG.NET.exe.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG.NET.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG.NET.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_AM.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Barcode.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_ComTextB.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_LTP.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\Scag_OS.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_PR.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_QBR.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Reports.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_SFC.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_TDG.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_TimeKeeper.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_AdminSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_AM.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Barcode.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_ComTextB.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_LTP.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\Scag_OS.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_PR.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_QBR.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_Reports.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_SFC.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_TDG.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG.NET\bin\Debug\ScaG_TimeKeeper.pdb

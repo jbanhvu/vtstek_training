@@ -1,0 +1,1185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0832E50-5ABB-4FAC-BE87-C3C6E65269E6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNY_WH</RootNamespace>
+    <AssemblyName>CNY_WH</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataVisualization.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Export, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.TreeMap.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Spreadsheet.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Wizard, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Cls_001Stock.cs" />
+    <Compile Include="Class\ClsWhConstant.cs" />
+    <Compile Include="Class\ClsWhPara.cs" />
+    <Compile Include="Class\Cls_002ReceiptNote.cs" />
+    <Compile Include="Common\ClsWhExportFiles.cs" />
+    <Compile Include="Common\ClsWhGenFunctions.cs" />
+    <Compile Include="Common\Com_MaterialReleaseOrder.cs" />
+    <Compile Include="Common\Com_StockDocumentRequest.cs" />
+    <Compile Include="Common\MyDelegate_Event.cs" />
+    <Compile Include="Info\InfoWh00001.cs" />
+    <Compile Include="Info\InfoWh00002.cs" />
+    <Compile Include="Info\InfoWhMf.cs" />
+    <Compile Include="Info\InfoWhReports.cs" />
+    <Compile Include="Info\Inf_001Stock.cs" />
+    <Compile Include="Info\Inf_002ReceiptNote.cs" />
+    <Compile Include="Info\Inf_003ReceiptNoteDetail.cs" />
+    <Compile Include="Info\Inf_003StockType.cs" />
+    <Compile Include="Info\Inf_008Manufacturer.cs" />
+    <Compile Include="Info\Inf_MaterialReleaseOrder.cs" />
+    <Compile Include="Info\Inf_ProductionOrderWizard.cs" />
+    <Compile Include="Info\Inf_StockDocumentRequest.cs" />
+    <Compile Include="Info\Inf_WorkOrderWizard.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockCard.Designer.cs">
+      <DependentUpon>RptStockCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockIssue.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockIssue.Designer.cs">
+      <DependentUpon>RptStockIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockReceive.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockReceive.Designer.cs">
+      <DependentUpon>RptStockReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockDirectDelivery.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockDirectDelivery.Designer.cs">
+      <DependentUpon>RptStockDirectDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockReceiveVTSTek.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockReceiveVTSTek.Designer.cs">
+      <DependentUpon>RptStockReceiveVTSTek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockShipOut.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockShipOut.Designer.cs">
+      <DependentUpon>RptStockShipOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptStockTransfer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptStockTransfer.Designer.cs">
+      <DependentUpon>RptStockTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockItems.designer.cs">
+      <DependentUpon>UctrlWHStockItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockVoucher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockVoucher.designer.cs">
+      <DependentUpon>UctrlWHStockVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockVoucherAe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UctrlWHStockVoucherAe.designer.cs">
+      <DependentUpon>UctrlWHStockVoucherAe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC001Stock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC001Stock.Designer.cs">
+      <DependentUpon>XtraUC001Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC001StockAE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC001StockAE.Designer.cs">
+      <DependentUpon>XtraUC001StockAE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC002ReceiptNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC002ReceiptNote.Designer.cs">
+      <DependentUpon>XtraUC002ReceiptNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC002ReceiptNoteAE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC002ReceiptNoteAE.Designer.cs">
+      <DependentUpon>XtraUC002ReceiptNoteAE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC_MROMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC_MROMain.Designer.cs">
+      <DependentUpon>XtraUC_MROMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC_MROMainAE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC_MROMainAE.designer.cs">
+      <DependentUpon>XtraUC_MROMainAE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC_StockDocumentRequestMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC_StockDocumentRequestMain.designer.cs">
+      <DependentUpon>XtraUC_StockDocumentRequestMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUC_StockDocumentRequestMainAE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUC_StockDocumentRequestMainAE.designer.cs">
+      <DependentUpon>XtraUC_StockDocumentRequestMainAE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm001Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm001Stock.Designer.cs">
+      <DependentUpon>Frm001Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm002ReceiptNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm002ReceiptNote.Designer.cs">
+      <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm003StockType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm003StockType.Designer.cs">
+      <DependentUpon>Frm003StockType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm008Manufacturer.Designer.cs">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTestReport.Designer.cs">
+      <DependentUpon>FrmTestReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHAllocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWHAllocation.Designer.cs">
+      <DependentUpon>FrmWHAllocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWhPrint.Designer.cs">
+      <DependentUpon>FrmWHPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockCard.designer.cs">
+      <DependentUpon>FrmWHStockCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockItems.designer.cs">
+      <DependentUpon>FrmWHStockItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockVoucher.designer.cs">
+      <DependentUpon>FrmWHStockVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockVoucherWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmWHStockVoucherWizard.designer.cs">
+      <DependentUpon>FrmWHStockVoucherWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm_ProductionOrderWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm_ProductionOrderWizard.designer.cs">
+      <DependentUpon>Frm_ProductionOrderWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm_SDR_AddNewItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm_SDR_AddNewItem.designer.cs">
+      <DependentUpon>Frm_SDR_AddNewItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm_StockDocumentRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm_StockDocumentRequest.designer.cs">
+      <DependentUpon>Frm_StockDocumentRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\Frm_WorkOrderWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm_WorkOrderWizard.designer.cs">
+      <DependentUpon>Frm_WorkOrderWizard.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\.editorconfig" />
+    <None Include="Resources\doublenext_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CNY_Report\CNY_Report.csproj">
+      <Project>{2d889563-6a24-4f75-9f28-95ead43d1a3c}</Project>
+      <Name>CNY_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_BaseSys\CNY_BaseSys.csproj">
+      <Project>{387b3ab4-ae2b-4cf5-b75f-7ac786023bfc}</Project>
+      <Name>CNY_BaseSys</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockCard.resx">
+      <DependentUpon>RptStockCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockIssue.resx">
+      <DependentUpon>RptStockIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockReceive.resx">
+      <DependentUpon>RptStockReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockDirectDelivery.resx">
+      <DependentUpon>RptStockDirectDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockReceiveVTSTek.resx">
+      <DependentUpon>RptStockReceiveVTSTek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockShipOut.resx">
+      <DependentUpon>RptStockShipOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptStockTransfer.resx">
+      <DependentUpon>RptStockTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UctrlWHStockItems.resx">
+      <DependentUpon>UctrlWHStockItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UctrlWHStockVoucher.resx">
+      <DependentUpon>UctrlWHStockVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UctrlWHStockVoucherAe.resx">
+      <DependentUpon>UctrlWHStockVoucherAe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC001Stock.resx">
+      <DependentUpon>XtraUC001Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC001StockAE.resx">
+      <DependentUpon>XtraUC001StockAE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC002ReceiptNote.resx">
+      <DependentUpon>XtraUC002ReceiptNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC002ReceiptNoteAE.resx">
+      <DependentUpon>XtraUC002ReceiptNoteAE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC_MROMain.resx">
+      <DependentUpon>XtraUC_MROMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC_MROMainAE.resx">
+      <DependentUpon>XtraUC_MROMainAE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC_StockDocumentRequestMain.resx">
+      <DependentUpon>XtraUC_StockDocumentRequestMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC_StockDocumentRequestMainAE.resx">
+      <DependentUpon>XtraUC_StockDocumentRequestMainAE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm001Stock.resx">
+      <DependentUpon>Frm001Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm002ReceiptNote.resx">
+      <DependentUpon>Frm002ReceiptNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm008Manufacturer.resx">
+      <DependentUpon>Frm008Manufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTestReport.resx">
+      <DependentUpon>FrmTestReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWHAllocation.resx">
+      <DependentUpon>FrmWHAllocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWhPrint.resx">
+      <DependentUpon>FrmWHPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWHStockCard.resx">
+      <DependentUpon>FrmWHStockCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWHStockItems.resx">
+      <DependentUpon>FrmWHStockItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWHStockVoucher.resx">
+      <DependentUpon>FrmWHStockVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmWHStockVoucherWizard.resx">
+      <DependentUpon>FrmWHStockVoucherWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm_ProductionOrderWizard.resx">
+      <DependentUpon>Frm_ProductionOrderWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm_SDR_AddNewItem.resx">
+      <DependentUpon>Frm_SDR_AddNewItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm_StockDocumentRequest.resx">
+      <DependentUpon>Frm_StockDocumentRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm_WorkOrderWizard.resx">
+      <DependentUpon>Frm_WorkOrderWizard.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel_2003_2_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-history-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnewdatasource_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnewdatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App-lists-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\article_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\article_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assembly_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basic-Plus-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bubble_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy_24_24_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Categories-preferences-other-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartyaxissettings_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartyaxissettings_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Component_BoM__16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert_2424.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Upload-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Upload-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data-Export-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data-Import-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetrows_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetrows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-check-compatibility-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-excel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-move-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-txt-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_currency_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edittask_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-send-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export-To-Picture-Document-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-documents-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-full-accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_wireless.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupfieldcollection_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupheader_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupheader_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidedetail_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historyitem_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historyitem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hLineLarge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Full-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_22x22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_24x24_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import-Picture-Document-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indentincrease_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indentincrease_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_22x22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_2525.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_2727.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet_radio_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\label_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\late_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoItem_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-0-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon_8_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-4-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-5-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-6-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-7-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-8-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-9-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\offersheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Other-drive-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pageinfo_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendingpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendingpo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pivot_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Process-Accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-accept-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-accept-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-remove-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Process-Warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Product_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\products_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RawMaterial_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recurrence_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recurrence_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RejectedIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RejectedIcon_18_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\removeitem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reverssort_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss2_5_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss2_5_16_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales-report-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scripts_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showdetail_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showworktimeonly_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-Info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splitappointment_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stamp-pattern-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stamp-pattern-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-dialog-warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-mail-task-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock_lock_brocken_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_24_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sum-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switchtimescalesto_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switchtimescalesto_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technology_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technology_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\template_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck-with-Site-Office-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-scroll-pane-detail-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewonweb_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewsetting_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPermissionLine1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watermark_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wire-transfer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordwrap_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordwrap_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231715_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231837_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289438_bullet_toggle_minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289456_bullet_toggle_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doubleprev_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace_20x201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exporttoxlsx_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printarea_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

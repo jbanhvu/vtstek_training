@@ -1,0 +1,22 @@
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\bin\Debug\ScaG_StartUp.exe.config
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\bin\Debug\ScaG_StartUp.exe
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\bin\Debug\ScaG_StartUp.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.FormVitural.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.FrmMessage.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.FrmUpdate.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.exe.licenses
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.exe
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_StartUp\obj\Debug\ScaG_StartUp.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ScaG_StartUp.exe.config
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ScaG_StartUp.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ScaG_StartUp.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.FormVitural.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.FrmMessage.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.FrmUpdate.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.exe.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\ScaG_StartUp.pdb

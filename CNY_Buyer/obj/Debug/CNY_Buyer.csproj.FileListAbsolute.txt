@@ -1,0 +1,482 @@
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Buyer.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Buyer.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Barcode.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_BaseSys.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\EPPlus.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\EPPlus.Interfaces.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\RazorEngine.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\System.Web.Razor.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Property.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Images.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.dll.config
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Barcode.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_BaseSys.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\EPPlus.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\RazorEngine.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\System.Web.Razor.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Property.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.csproj.AssemblyReference.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.Properties.Resources.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.WForm.FrmRequireReason.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.csproj.GenerateResource.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.dll.licenses
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.csproj.CoreCompileInputs.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.csproj.CopyComplete
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.dll
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.Rpt001PurchaseRequisition.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.UControl.XtraUC001PurchaseRequisitionAE.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisition.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisitionReport.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.UControl.XtraUC004MaterialRequirementAE.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.UControl.XtraUC006MaterialReceiptAE.resources
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Buyer.dll.config
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisitionSelectItem.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.Properties.Resources.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.Rpt001PurchaseRequisition.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.UControl.XtraUC001PurchaseRequisitionAE.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.UControl.XtraUC004MaterialRequirementAE.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.UControl.XtraUC006MaterialReceiptAE.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisition.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisitionReport.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.Frm001PurchaseRequisitionSelectItem.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmRequireReason.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.csproj.GenerateResource.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.dll.licenses
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Buyer.dll.config
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Buyer.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Buyer.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_BaseSys.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Report.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\EPPlus.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\RazorEngine.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\System.Web.Razor.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Property.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Docs.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Report.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Report.dll.config
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_BaseSys.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\EPPlus.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\RazorEngine.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\System.Web.Razor.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_Property.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Docs.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.csproj.CopyComplete

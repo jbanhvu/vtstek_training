@@ -1,0 +1,45 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thông báo phê duyệt</title>
+    <style>
+        /* CSS để căn giữa bảng */
+        .center {
+            margin: 0 auto;
+        }
+
+        /* CSS để căn xa hai liên kết */
+        .links-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* CSS để màu đỏ cho liên kết từ chối */
+        .reject-link {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Thông báo phê duyệt</h1>
+    <p>Đây là nội dung email có dạng bảng:</p>
+    <div class="center">
+        <table border='1'>
+            <tr>
+                <th>Tên</th>
+                <th>Số điện thoại</th>
+            </tr>
+                <tr>
+                    <td>AA</td>
+                    <td>123</td>
+                </tr>
+        </table>
+    </div>
+    <p>Hãy nhấn vào liên kết dưới đây để xác nhận phê duyệt hoặc từ chối:</p>
+    <div class="links-container">
+        <a href="https://www.google.com/">Phê duyệt</a>
+        <a href="https://www.facebook.com/" class="reject-link">Từ chối</a>
+    </div>
+</body>
+</html>

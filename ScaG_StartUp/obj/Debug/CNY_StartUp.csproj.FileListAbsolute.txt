@@ -1,0 +1,609 @@
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe.licenses
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\nguye\Desktop\MinhThuan\Scavi Work\TDG_SQL\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csprojResolveAssemblyReference.cache
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csprojResolveAssemblyReference.cache
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.Cache
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe.licenses
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+C:\Users\MinhThuan\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csprojResolveAssemblyReference.cache
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.Cache
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe.licenses
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+C:\Users\MinhThuan\Desktop\Source\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe.licenses
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csprojResolveAssemblyReference.cache
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.cache
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CoreCompileInputs.cache
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CopyComplete
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+D:\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.AssemblyReference.cache
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.cache
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CoreCompileInputs.cache
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CopyComplete
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+D:\Source Code\CNY_New\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\CNY_StartUp.exe.config
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\CNY_StartUp.exe
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\CNY_StartUp.pdb
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Data.v21.2.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Data.v21.2.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.FormVitural.resources
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmMessage.resources
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.FrmUpdate.resources
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.Properties.Resources.resources
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.GenerateResource.cache
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CoreCompileInputs.cache
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.CopyComplete
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.exe
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.pdb
+D:\03. Source\VTStek\ScaG_StartUp\obj\Debug\CNY_StartUp.csproj.AssemblyReference.cache

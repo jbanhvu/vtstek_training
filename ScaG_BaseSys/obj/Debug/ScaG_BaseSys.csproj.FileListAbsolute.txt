@@ -1,0 +1,88 @@
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_ComTextB.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_ComTextB.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.Demo.FrmDemoProgressBar.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlBoolean.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlDateTime.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlDateTimeBetween.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlNumber.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlNumberBetween.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlValueString.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCReport.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCRichText.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCRichTextSendMail.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmBase.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmColorMasterFile.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmConfirmCaptcha.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmEmailDomainList.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmHelpFinal.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmInput.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmListEmailCommon.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmMessage.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmModalCompositeProgressForm.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmModalProgressForm.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmPantone.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmQBRWord.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmReport.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSearch.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSendMailMultiAttach.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSizeMasterFile.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmTransferData.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_AlertProceess.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_GridSelect.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_GridSelectCell.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_Select.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_SendMail.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.dll.licenses
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.csprojResolveAssemblyReference.cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_ComTextB.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_ComTextB.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.Demo.FrmDemoProgressBar.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlBoolean.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlDateTime.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlDateTimeBetween.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlNumber.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlNumberBetween.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCPanelControlValueString.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCReport.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCRichText.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.UControl.XtraUCRichTextSendMail.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmBase.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmColorMasterFile.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmConfirmCaptcha.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmEmailDomainList.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmHelpFinal.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmInput.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmListEmailCommon.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmMessage.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmModalCompositeProgressForm.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmModalProgressForm.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmPantone.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmQBRWord.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmReport.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSearch.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSendMailMultiAttach.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmSizeMasterFile.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.FrmTransferData.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_AlertProceess.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_GridSelect.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_GridSelectCell.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_Select.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.WForm.Frm_SendMail.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.dll.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_BaseSys\obj\Debug\ScaG_BaseSys.csprojResolveAssemblyReference.cache

@@ -1,0 +1,862 @@
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_LTP.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_LTP.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Barcode.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_BaseSys.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Property.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Barcode.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_BaseSys.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Property.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.Properties.Resources.resources
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.dll.licenses
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\obj\Debug\CNY_LTP.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Report.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\CNY_Report.pdb
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Docs.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v17.2.Drawing.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Snap.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Docs.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v17.2.Drawing.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Snap.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Snap.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Snap.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Snap.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Snap.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\Desktop\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_LTP.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_LTP.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Barcode.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_BaseSys.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Report.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Property.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Docs.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Snap.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Report.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Report.dll.config
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Barcode.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_BaseSys.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\CNY_Property.pdb
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Docs.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Snap.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Snap.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Snap.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Snap.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Snap.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.dll
+C:\Users\nguye\OneDrive\Desktop\Source Code\CNY\CNY_LTP\obj\Debug\CNY_LTP.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_LTP.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_LTP.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Barcode.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_BaseSys.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Report.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Property.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Report.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Report.dll.config
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Barcode.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_BaseSys.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\CNY_Property.pdb
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.Properties.Resources.resources
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.csproj.GenerateResource.cache
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.csproj.CoreCompileInputs.cache
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.csproj.CopyComplete
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.dll
+D:\Source Code\CNY_New\CNY_LTP\obj\Debug\CNY_LTP.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_LTP.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_LTP.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Barcode.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_BaseSys.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Property.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Images.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Report.dll.config
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Barcode.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_BaseSys.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\CNY_Property.pdb
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Docs.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Snap.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Snap.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.csproj.AssemblyReference.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.Properties.Resources.resources
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.csproj.GenerateResource.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.csproj.CoreCompileInputs.cache
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.csproj.CopyComplete
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.dll
+D:\03. Source\VTStek\CNY_LTP\obj\Debug\CNY_LTP.pdb

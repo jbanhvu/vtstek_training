@@ -1,0 +1,70 @@
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_AdminSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.csprojResolveAssemblyReference.cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Company.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Department.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Menu.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_PermisionGroup.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Positions.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_TypeFormShow.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_User.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_UserGroup.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAdminCodeFile.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAdvanceFunctionList.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAuthorizeGroupToGroup.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmConfigSingleInstance.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmEditPermissionOnUser.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmMangeUpdate.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmMenuInPermission.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmPermissionGroupList.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmRoleGroupList.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmSettingShowForm.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmSpecialFunctionListing.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserInGroup.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserInGroupListing.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserList.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserMemberOf.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.dll.licenses
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\SVN SOURCE CODE\ScaX_20160527\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_AdminSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_BaseSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_Property.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_BaseSys.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\bin\Debug\ScaG_Property.pdb
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.csprojResolveAssemblyReference.cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Company.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Department.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Menu.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_PermisionGroup.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_Positions.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_TypeFormShow.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_User.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmACF_UserGroup.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAdminCodeFile.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAdvanceFunctionList.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmAuthorizeGroupToGroup.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmConfigSingleInstance.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmEditPermissionOnUser.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmMangeUpdate.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmMenuInPermission.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmPermissionGroupList.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmRoleGroupList.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmSettingShowForm.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmSpecialFunctionListing.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserInGroup.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserInGroupListing.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserList.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.FrmUserMemberOf.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.Properties.Resources.resources
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.csproj.GenerateResource.Cache
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.dll.licenses
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.dll
+D:\MinhThuanPro\Scavi Work\TDG_SQL\CNY\ScaG_AdminSys\obj\Debug\ScaG_AdminSys.pdb

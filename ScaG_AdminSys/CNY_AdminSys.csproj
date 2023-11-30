@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9722F4CF-2582-4A77-B40C-FDA1BF2CE9E8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNY_AdminSys</RootNamespace>
+    <AssemblyName>CNY_AdminSys</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\ScaG_AdminSys.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\Rule Sets\MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\ScaG_AdminSys.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Wizard, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="envdte80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Cls_AdminCodeFile.cs" />
+    <Compile Include="Class\Cls_MasterFileListGeneral.cs" />
+    <Compile Include="Common\MyDelegate.cs" />
+    <Compile Include="Common\MyEnum.cs" />
+    <Compile Include="Contrl\Ctrl_Update.cs" />
+    <Compile Include="WForm\FrmAdministratorSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmAdministratorSetting.Designer.cs">
+      <DependentUpon>FrmAdministratorSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmConfigSingleInstance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmConfigSingleInstance.Designer.cs">
+      <DependentUpon>FrmConfigSingleInstance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmDepartment.Designer.cs">
+      <DependentUpon>FrmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmMangeUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmMangeUpdate.Designer.cs">
+      <DependentUpon>FrmMangeUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmMasterFileListGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmMasterFileListGridView.Designer.cs">
+      <DependentUpon>FrmMasterFileListGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmRole_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmRole_Edit.Designer.cs">
+      <DependentUpon>FrmRole_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmRule_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmRule_Edit.Designer.cs">
+      <DependentUpon>FrmRule_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTitle.Designer.cs">
+      <DependentUpon>FrmTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmTreelistPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTreelistPermission.Designer.cs">
+      <DependentUpon>FrmTreelistPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmUserMemberOf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmUserMemberOf.Designer.cs">
+      <DependentUpon>FrmUserMemberOf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\Inf_AdminCodeFile.cs" />
+    <Compile Include="Info\Inf_Company.cs" />
+    <Compile Include="Info\Inf_Department.cs" />
+    <Compile Include="Info\Inf_MasterFileList.cs" />
+    <Compile Include="Info\Inf_Menu.cs" />
+    <Compile Include="Info\Inf_Position.cs" />
+    <Compile Include="Info\Inf_Role.cs" />
+    <Compile Include="Info\Inf_Rule.cs" />
+    <Compile Include="Info\Inf_Update.cs" />
+    <Compile Include="Info\Inf_User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UControl\UCACF_Company.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Company.Designer.cs">
+      <DependentUpon>UCACF_Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_Department.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Department.Designer.cs">
+      <DependentUpon>UCACF_Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Menu.Designer.cs">
+      <DependentUpon>UCACF_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_Position.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Position.Designer.cs">
+      <DependentUpon>UCACF_Position.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_Role.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Role.Designer.cs">
+      <DependentUpon>UCACF_Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_Rule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_Rule.Designer.cs">
+      <DependentUpon>UCACF_Rule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_User.Designer.cs">
+      <DependentUpon>UCACF_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCACF_User_New.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCACF_User_New.Designer.cs">
+      <DependentUpon>UCACF_User_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCMain_User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UCMain_User.Designer.cs">
+      <DependentUpon>UCMain_User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="WForm\FrmAdministratorSetting.resx">
+      <DependentUpon>FrmAdministratorSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmConfigSingleInstance.resx">
+      <DependentUpon>FrmConfigSingleInstance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmDepartment.resx">
+      <DependentUpon>FrmDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmMangeUpdate.resx">
+      <DependentUpon>FrmMangeUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmMasterFileListGridView.resx">
+      <DependentUpon>FrmMasterFileListGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmRole_Edit.resx">
+      <DependentUpon>FrmRole_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmRule_Edit.resx">
+      <DependentUpon>FrmRule_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTreelistPermission.resx">
+      <DependentUpon>FrmTreelistPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmUserMemberOf.resx">
+      <DependentUpon>FrmUserMemberOf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UControl\UCACF_Company.resx">
+      <DependentUpon>UCACF_Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_Department.resx">
+      <DependentUpon>UCACF_Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_Menu.resx">
+      <DependentUpon>UCACF_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_Position.resx">
+      <DependentUpon>UCACF_Position.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_Role.resx">
+      <DependentUpon>UCACF_Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_Rule.resx">
+      <DependentUpon>UCACF_Rule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_User.resx">
+      <DependentUpon>UCACF_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCACF_User_New.resx">
+      <DependentUpon>UCACF_User_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\UCMain_User.resx">
+      <DependentUpon>UCMain_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloc-notes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\195-barcode-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231715_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231837_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1402651029_stock_new-meeting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1406717444_quantity_capsule_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-system-software-update-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-system-software-update-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basic-Plus-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coins-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contract_pencil_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-add-icon_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-process-icon_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery_note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-contract-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-excel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_currency_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-send-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finish1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-import-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_export_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_stock_person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hookshap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hookshap2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hooksharp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hPanelLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hPanelLine1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon 30x30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon 30x301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map-Marker-Marker-Inside-Chartreuse-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map-Marker-Push-Pin-1-Left-Azure-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mimetype-schedule-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-file-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Other-drive-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preferences_kcalc_constants.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Process-Accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales-report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping-delivery-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales-report-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-Info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-dialog-warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck-with-Site-Office-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Very-Basic-clock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wire-transfer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wlm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Company-icon_24_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Increase-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder-Group-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc-Graphics-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-form-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video_chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voice_chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-txt-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy_32_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_32_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\move_32_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Full-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\move.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addfooter_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletefooter_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigationbar_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-0-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-4-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-5-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-8-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-9-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-6-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-7-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addgroupfooter_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newtask_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DLL-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-extension-dll-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom-reports-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mimetypes-ini-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigationbar_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder-Group-icon_20_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CNY_Report\CNY_Report.csproj">
+      <Project>{2d889563-6a24-4f75-9f28-95ead43d1a3c}</Project>
+      <Name>CNY_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_BaseSys\CNY_BaseSys.csproj">
+      <Project>{387B3AB4-AE2B-4CF5-B75F-7AC786023BFC}</Project>
+      <Name>CNY_BaseSys</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScaG_Property\CNY_Property.csproj">
+      <Project>{bfb72479-f1f8-4df3-9918-9494dcbbae46}</Project>
+      <Name>CNY_Property</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cutcaster-photo-100670547-User-group-background-with-empty-frame.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userBackground_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boposition2_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\managerules_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\managerules_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\role_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\functionscube_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\operatingsystem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userBackground_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_1_2_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reverssort_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boposition2_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupfieldcollection_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usergroup_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usergroup_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewmergeddata_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showall_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\knowledgebasearticle_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendbehindtext_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suggestion_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_16x16.png" />
+    <None Include="Resources\apply_16x16.png" />
+    <None Include="Resources\1450289438_bullet_toggle_minus.png" />
+    <None Include="Resources\1450289456_bullet_toggle_plus.png" />
+    <Content Include="Resources\apply_24x24_W.png" />
+    <Content Include="Resources\backward_24x24_W.png" />
+    <Content Include="Resources\cancel_24x24_W.png" />
+    <None Include="Resources\deletesheetrows_32x32.png" />
+    <None Include="Resources\deletesheetrows_20x20.png" />
+    <None Include="Resources\deletesheetcolumns_32x32.png" />
+    <None Include="Resources\deletesheetcolumns_20x20.png" />
+    <None Include="Resources\deletesheetrows_16.png" />
+    <None Include="Resources\chartsshowlegend_32x321.png" />
+    <None Include="Resources\download_16x16.png" />
+    <None Include="Resources\fill_16x16.png" />
+    <None Include="Resources\convert_16x16.png" />
+    <None Include="Resources\chk_ch_24x24.png" />
+    <None Include="Resources\chk_un_24x24.png" />
+    <None Include="Resources\chartsshowlegend_32x32.png" />
+    <Content Include="Resources\forward_24x24_W.png" />
+    <None Include="Resources\insertrows_32x32.png" />
+    <None Include="Resources\insertrows_2727.png" />
+    <None Include="Resources\insertrows_2525.png" />
+    <None Include="Resources\insertrows_20x20.png" />
+    <None Include="Resources\insertcolumns_32x32.png" />
+    <None Include="Resources\insertcolumns_20x20.png" />
+    <None Include="Resources\insertrows_16.png" />
+    <None Include="Resources\group_16x16.png" />
+    <Content Include="Resources\Number-1-icon-8-8.png" />
+    <Content Include="Resources\Number-2-icon-8-8.png" />
+    <Content Include="Resources\Number-3-icon_8_8.png" />
+    <Content Include="Resources\Product_BoM_16x16.png" />
+    <None Include="Resources\project_16x16.png" />
+    <None Include="Resources\properties_16x16.png" />
+    <Content Include="Resources\RawMaterial_BoM_16x16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

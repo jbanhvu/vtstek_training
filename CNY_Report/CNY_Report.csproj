@@ -1,0 +1,974 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D889563-6A24-4F75-9F28-95EAD43D1A3C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNY_Report</RootNamespace>
+    <AssemblyName>CNY_Report</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v21.2.Wizard, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\SOReport.cs" />
+    <Compile Include="Common\Ctrl_SOGenneral.cs" />
+    <Compile Include="Common\FormatGridView.cs" />
+    <Compile Include="Common\NumberInWord.cs" />
+    <Compile Include="Frm001SOReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm001SOReport.Designer.cs">
+      <DependentUpon>Frm001SOReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm002BoMReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm002BoMReport.Designer.cs">
+      <DependentUpon>Frm002BoMReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm003ProductionOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm003ProductionOrder.Designer.cs">
+      <DependentUpon>Frm003ProductionOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm004PurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm004PurchaseOrder.Designer.cs">
+      <DependentUpon>Frm004PurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm005PurchaseRequisition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm005PurchaseRequisition.Designer.cs">
+      <DependentUpon>Frm005PurchaseRequisition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPOReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPOReport.Designer.cs">
+      <DependentUpon>FrmPOReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\Inf_001POReport.cs" />
+    <Compile Include="Info\Inf_001SOReport.cs" />
+    <Compile Include="Info\Inf_002BoMReport.cs" />
+    <Compile Include="Info\Inf_003ProductionOrder.cs" />
+    <Compile Include="Info\Inf_004PurchaseOrder.cs" />
+    <Compile Include="Info\Inf_005PurchaseRequisition.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rpt001SOReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt001SOReport.Designer.cs">
+      <DependentUpon>rpt001SOReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt001SOReportSub1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt001SOReportSub1.Designer.cs">
+      <DependentUpon>rpt001SOReportSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt002BoMReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt002BoMReport.Designer.cs">
+      <DependentUpon>rpt002BoMReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt002BoMReportSub1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt002BoMReportSub1.Designer.cs">
+      <DependentUpon>rpt002BoMReportSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt003ProductionOrder.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt003ProductionOrder.Designer.cs">
+      <DependentUpon>rpt003ProductionOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt003ProductionOrderSub1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt003ProductionOrderSub1.Designer.cs">
+      <DependentUpon>rpt003ProductionOrderSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt003ProductionOrderSub2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt003ProductionOrderSub2.Designer.cs">
+      <DependentUpon>rpt003ProductionOrderSub2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrder.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrder.Designer.cs">
+      <DependentUpon>rpt004PuchaserOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrderSubDetails.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrderSubDetails.Designer.cs">
+      <DependentUpon>rpt004PuchaserOrderSubDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrder_VN.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt004PuchaserOrder_VN.Designer.cs">
+      <DependentUpon>rpt004PuchaserOrder_VN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisition.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisition.Designer.cs">
+      <DependentUpon>rpt005PurchaseRequisition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisitionSub1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisitionSub1.Designer.cs">
+      <DependentUpon>rpt005PurchaseRequisitionSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisitionSub2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpt005PurchaseRequisitionSub2.Designer.cs">
+      <DependentUpon>rpt005PurchaseRequisitionSub2.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Frm001SOReport.resx">
+      <DependentUpon>Frm001SOReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm002BoMReport.resx">
+      <DependentUpon>Frm002BoMReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm003ProductionOrder.resx">
+      <DependentUpon>Frm003ProductionOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm004PurchaseOrder.resx">
+      <DependentUpon>Frm004PurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm005PurchaseRequisition.resx">
+      <DependentUpon>Frm005PurchaseRequisition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPOReport.resx">
+      <DependentUpon>FrmPOReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt001SOReport.resx">
+      <DependentUpon>rpt001SOReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt001SOReportSub1.resx">
+      <DependentUpon>rpt001SOReportSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt002BoMReport.resx">
+      <DependentUpon>rpt002BoMReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt002BoMReportSub1.resx">
+      <DependentUpon>rpt002BoMReportSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt003ProductionOrder.resx">
+      <DependentUpon>rpt003ProductionOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt003ProductionOrderSub1.resx">
+      <DependentUpon>rpt003ProductionOrderSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt003ProductionOrderSub2.resx">
+      <DependentUpon>rpt003ProductionOrderSub2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt004PuchaserOrder.resx">
+      <DependentUpon>rpt004PuchaserOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt004PuchaserOrderSubDetails.resx">
+      <DependentUpon>rpt004PuchaserOrderSubDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt004PuchaserOrder_VN.resx">
+      <DependentUpon>rpt004PuchaserOrder_VN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt005PurchaseRequisition.resx">
+      <DependentUpon>rpt005PurchaseRequisition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt005PurchaseRequisitionSub1.resx">
+      <DependentUpon>rpt005PurchaseRequisitionSub1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\TienDTT.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-history-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-first-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-last-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon_32_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon_32_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnewdatasource_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnewdatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App-lists-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\article_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\article_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assembly_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basic-Plus-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bubble_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy_24_24_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Categories-preferences-other-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartyaxissettings_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartyaxissettings_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Component_BoM__16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convert_2424.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Upload-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Upload-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data-Export-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data-Import-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetcolumns_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetrows_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletesheetrows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-check-compatibility-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-excel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-move-icon_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-txt-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_currency_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edittask_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-send-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel_2003_2_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export-To-Picture-Document-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-documents-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-full-accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-yellow-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_24x24_W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_wireless.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupfieldcollection_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupheader_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupheader_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidedetail_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historyitem_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historyitem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hLineLarge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HP-Recycle-Full-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_22x22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_24x24_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importimage_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import-Picture-Document-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indentincrease_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indentincrease_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_22x22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inlinewithtext_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertcolumns_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_2525.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertrows_2727.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet_radio_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\label_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\late_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layer_db_add_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoItem_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad-Bloc-notes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-0-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-1-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-2-icon-8-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-3-icon_8_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-4-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-5-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-6-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-7-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-8-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number-9-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\offersheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Other-drive-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pageinfo_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendingpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendingpo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pivot_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Process-Accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-accept-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-accept-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process-remove-icon_po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Process-Warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Product_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\products_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\properties_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RawMaterial_BoM_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recurrence_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recurrence_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RejectedIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RejectedIcon_18_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\removeitem_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reverssort_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss2_5_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss2_5_16_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales-report-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scripts_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showdetail_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showworktimeonly_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-Info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splitappointment_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stamp-pattern-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stamp-pattern-icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-dialog-warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status-mail-task-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock_lock_brocken_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_24_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sum-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switchtimescalesto_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switchtimescalesto_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technology_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technology_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\template_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck-with-Site-Office-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-scroll-pane-detail-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewonweb_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewsetting_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPermissionLine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VPermissionLine1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watermark_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wire-transfer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordwrap_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wordwrap_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231715_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400231837_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289438_bullet_toggle_minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450289456_bullet_toggle_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-export-icon_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ScaG_BaseSys\CNY_BaseSys.csproj">
+      <Project>{387b3ab4-ae2b-4cf5-b75f-7ac786023bfc}</Project>
+      <Name>CNY_BaseSys</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
