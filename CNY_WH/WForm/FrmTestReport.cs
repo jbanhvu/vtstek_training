@@ -56,5 +56,22 @@ namespace CNY_WH.WForm
 
             printTool.ShowPreview();
         }
+
+        private void simpleButton3_Click(object sender, EventArgs e)
+        {
+            DataTable dtHeader = new DataTable();
+            dtHeader = inf.sp_GoodsDeliveryNote_Select(1);
+
+            DataTable dtDetail = new DataTable();
+            dtDetail = inf.sp_GoodsDeliveryNoteDetail_Select(1);
+
+            DataTable dtSignature = new DataTable();
+            dtSignature = inf.sp_ApprovalHistory_SelectUserSignature(1, 1);
+
+
+            ReportPrintTool printTool = new ReportPrintTool(new RptStockReceiveVT(dtHeader, dtDetail, dtSignature));
+
+            printTool.ShowPreview();
+        }
     }
 }
