@@ -82,6 +82,12 @@
     <Compile Include="Report\Rpt001BusinessTrip.Designer.cs">
       <DependentUpon>Rpt001BusinessTrip.cs</DependentUpon>
     </Compile>
+    <Compile Include="Report\RptBusinessTripCostReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptBusinessTripCostReport.Designer.cs">
+      <DependentUpon>RptBusinessTripCostReport.cs</DependentUpon>
+    </Compile>
     <Compile Include="UControl\XtraUC001BusinessTrip.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -93,6 +99,12 @@
     </Compile>
     <Compile Include="UControl\XtraUC001BusinessTripAE.Designer.cs">
       <DependentUpon>XtraUC001BusinessTripAE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FormTestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FormTestReport.Designer.cs">
+      <DependentUpon>FormTestReport.cs</DependentUpon>
     </Compile>
     <Compile Include="WForm\Frm001BusinessTrip.cs">
       <SubType>Form</SubType>
@@ -123,11 +135,17 @@
     <EmbeddedResource Include="Report\Rpt001BusinessTrip.resx">
       <DependentUpon>Rpt001BusinessTrip.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptBusinessTripCostReport.resx">
+      <DependentUpon>RptBusinessTripCostReport.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UControl\XtraUC001BusinessTrip.resx">
       <DependentUpon>XtraUC001BusinessTrip.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UControl\XtraUC001BusinessTripAE.resx">
       <DependentUpon>XtraUC001BusinessTripAE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FormTestReport.resx">
+      <DependentUpon>FormTestReport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\Frm001BusinessTrip.resx">
       <DependentUpon>Frm001BusinessTrip.cs</DependentUpon>

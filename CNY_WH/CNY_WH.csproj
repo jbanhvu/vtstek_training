@@ -116,6 +116,7 @@
     <Compile Include="Info\InfoWh00002.cs" />
     <Compile Include="Info\InfoWhMf.cs" />
     <Compile Include="Info\InfoWhReports.cs" />
+    <Compile Include="Info\Inf_001BusinessTrip.cs" />
     <Compile Include="Info\Inf_001Stock.cs" />
     <Compile Include="Info\Inf_002ReceiptNote.cs" />
     <Compile Include="Info\Inf_003ReceiptNoteDetail.cs" />
@@ -135,6 +136,12 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptBusinessTripCostReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptBusinessTripCostReport.Designer.cs">
+      <DependentUpon>RptBusinessTripCostReport.cs</DependentUpon>
     </Compile>
     <Compile Include="Report\RptStockCard.cs">
       <SubType>Component</SubType>
@@ -360,6 +367,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptBusinessTripCostReport.resx">
+      <DependentUpon>RptBusinessTripCostReport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\RptStockCard.resx">
       <DependentUpon>RptStockCard.cs</DependentUpon>

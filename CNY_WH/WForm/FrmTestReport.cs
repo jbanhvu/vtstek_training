@@ -1,4 +1,5 @@
-﻿using CNY_WH.Info;
+﻿using CNY_SI.Report;
+using CNY_WH.Info;
 using CNY_WH.Report;
 using DevExpress.XtraReports.UI;
 using System;
@@ -16,10 +17,12 @@ namespace CNY_WH.WForm
     public partial class FrmTestReport : Form
     {
         Inf_002ReceiptNote inf;
+        private readonly Inf_001BusinessTrip _infBusinessTrip;
         public FrmTestReport()
         {
             InitializeComponent();
             inf = new Inf_002ReceiptNote();
+            _infBusinessTrip = new Inf_001BusinessTrip();
         }
 
         private void simpleButton1_Click(object sender, EventArgs e)
@@ -71,6 +74,24 @@ namespace CNY_WH.WForm
 
             ReportPrintTool printTool = new ReportPrintTool(new RptStockReceiveVT(dtHeader, dtDetail, dtSignature));
 
+            printTool.ShowPreview();
+        }
+
+
+        private void simpleButton4_Click_1(object sender, EventArgs e)
+        {
+            DataTable dtHeader = new DataTable();
+            dtHeader = _infBusinessTrip.sp_BusinessTrip_Select(1);
+
+            DataTable dtDetail = new DataTable();
+            dtDetail = _infBusinessTrip.sp_BusinessTripDetail_Select(Convert.ToInt64(dtHeader.Rows[0]["PK"]));
+
+            DataTable dtSignature = new DataTable();
+            dtSignature = _infBusinessTrip.sp_ApprovalHistory_SelectUserSignature(1, 1);
+
+            //Goi bao baosp_ApprovalHistory_SelectUserSignature(1,1);
+            ReportPrintTool printTool = new ReportPrintTool(new RptBusinessTripCostReport(dtHeader, dtDetail, dtSignature));
+            // Xuất báo cáo
             printTool.ShowPreview();
         }
     }

@@ -2054,3 +2054,4 @@ C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_WH\obj\Debug\CNY_WH.Report.RptStockShipOut.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_WH\obj\Debug\CNY_WH.WForm.FrmTestReport.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_WH\bin\Debug\CNY_WH.dll.config
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_WH\obj\Debug\CNY_SI.Report.RptBusinessTripCostReport.resources

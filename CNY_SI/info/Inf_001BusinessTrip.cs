@@ -43,6 +43,14 @@ namespace CNY_SI.Info
 
             return acess.TblReadDataSP("sp_BusinessTrip_Update", arrPara);
         }
+        public DataTable sp_ApprovalHistory_SelectUserSignature(Int32 FunctionInApprovalPK, Int64 ItemPKInFunction)
+        {
+            var arrPara = new SqlParameter[2];
+            arrPara[0] = new SqlParameter("@FunctionInApprovalPK", SqlDbType.Int) { Value = FunctionInApprovalPK };
+            arrPara[1] = new SqlParameter("@ItemPKInFunction", SqlDbType.BigInt) { Value = ItemPKInFunction };
+
+            return acess.TblReadDataSP("sp_ApprovalHistory_SelectUserSignature", arrPara);
+        }
         #region  Excute
         public DataTable Excute(string SQL)
         {
