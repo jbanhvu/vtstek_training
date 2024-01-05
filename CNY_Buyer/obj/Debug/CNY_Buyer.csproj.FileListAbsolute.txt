@@ -486,3 +486,4 @@ C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_SI.pdb
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_SI.dll.config
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmTimeKeeper.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmVehicle.resources

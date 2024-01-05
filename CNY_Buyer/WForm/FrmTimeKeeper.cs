@@ -14,12 +14,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace CNY_Buyer.WForm
 {
     public partial class FrmTimeKeeper : FrmBase
     {
         Inf_TimeKeeper _inf;
+        private bool IsInsert;
         public FrmTimeKeeper()
         {
             InitializeComponent();
@@ -147,7 +149,7 @@ namespace CNY_Buyer.WForm
         }
         private void HidenButton()
         {
-            AllowAdd = false;
+            AllowAdd = true;
             AllowEdit = true;
             AllowDelete = false;
             AllowExpand = false;
@@ -170,6 +172,21 @@ namespace CNY_Buyer.WForm
         {
             TextLoad();
         }
+        protected override void PerformAdd()
+        {
+            IsInsert = true;
+
+            txtEncrollNumber.EditValue = string.Empty;
+            txtRecord.EditValue = string.Empty;
+            txtDateTime.EditValue = string.Empty;
+
+            txtEncrollNumber.Enabled = true;
+            txtRecord.Enabled = true;
+            txtDateTime.Enabled = true;
+
+            gcTimeKeeper.Enabled = false;
+
+        }
         protected override void PerformEdit()
         {
 
@@ -187,7 +204,16 @@ namespace CNY_Buyer.WForm
         }
         protected override void PerformSave()
         {
-            Int64 PK = ProcessGeneral.GetSafeInt(gvTimeKeeper.GetRowCellValue(gvTimeKeeper.FocusedRowHandle, "PK"));
+            Int64 PK;
+
+            if (!IsInsert)
+            {
+                PK = ProcessGeneral.GetSafeInt(gvTimeKeeper.GetRowCellValue(gvTimeKeeper.FocusedRowHandle, "PK"));
+            }
+            else
+            {
+                PK = -1;
+            }
             Int64 encrollNumber = ProcessGeneral.GetSafeInt64(txtEncrollNumber.EditValue);
             DateTime record = Convert.ToDateTime(ProcessGeneral.GetSafeDatetime(txtRecord.EditValue));
             DateTime insertDateTime = Convert.ToDateTime(ProcessGeneral.GetSafeDatetime(txtDateTime.EditValue));
@@ -206,6 +232,7 @@ namespace CNY_Buyer.WForm
             gcTimeKeeper.DataSource = _inf.sp_TimeKeeper_Select_1(-1);
             gvTimeKeeper.BestFitColumns();
             gcTimeKeeper.Enabled = true;
+            IsInsert = false;
         }
     }
 }
