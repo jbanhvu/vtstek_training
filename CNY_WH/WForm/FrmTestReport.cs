@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace CNY_WH.WForm
 {
@@ -93,6 +94,13 @@ namespace CNY_WH.WForm
             ReportPrintTool printTool = new ReportPrintTool(new RptBusinessTripCostReport(dtHeader, dtDetail, dtSignature));
             // Xuất báo cáo
             printTool.ShowPreview();
+        }
+
+        private void simpleButton5_Click(object sender, EventArgs e)
+        {
+            //ReportPrintTool printTool = new ReportPrintTool(new XtraReport2());
+            //// Xuất báo cáo
+            //printTool.ShowPreview();
         }
     }
 }

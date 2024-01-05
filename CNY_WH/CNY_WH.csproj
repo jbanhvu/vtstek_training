@@ -185,6 +185,12 @@
     <Compile Include="Report\RptStockTransfer.Designer.cs">
       <DependentUpon>RptStockTransfer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Report\RptGatePass.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptGatePass.Designer.cs">
+      <DependentUpon>RptGatePass.cs</DependentUpon>
+    </Compile>
     <Compile Include="UControl\UctrlWHStockItems.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -391,6 +397,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Report\RptStockTransfer.resx">
       <DependentUpon>RptStockTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptGatePass.resx">
+      <DependentUpon>RptGatePass.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UControl\UctrlWHStockItems.resx">
       <DependentUpon>UctrlWHStockItems.cs</DependentUpon>

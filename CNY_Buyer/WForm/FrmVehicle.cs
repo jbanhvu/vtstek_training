@@ -20,7 +20,7 @@ namespace CNY_Buyer.WForm
     public partial class FrmVehicle : FrmBase
     {
         Inf_Vehicle _inf;
-        private bool IsInsert; 
+        private bool IsInsert;
         public FrmVehicle()
         {
             InitializeComponent();
@@ -30,36 +30,14 @@ namespace CNY_Buyer.WForm
 
         private void FrmVehicle_Load(object sender, EventArgs e)
         {
-            HideButton();
             LoadData();
-        }
-
-        private void HideButton()
-        {
-            AllowAdd = true;
-            AllowEdit = true;
-            AllowDelete = false;
-            AllowExpand = false;
-            AllowGenerate = false;
-            AllowCancel = true;
-            AllowRevision = false;
-            AllowSave = true;
-            AllowFind = false;
-            AllowPrint = false;
-            AllowRefresh = false;
-            AllowBreakDown = false;
-            AllowRangeSize = false;
-            AllowCombine = false;
-            AllowCheck = false;
-            AllowCopyObject = false;
-            EnableCancel = false;
-            EnableSave = true;
         }
 
         private void LoadData()
         {
             DeclareGridview();
             InitColumnGridview();
+            ChangeMenuBar_Close();
             gcVehicle.DataSource = _inf.sp_Vehicle_Select(-1);
             gvVehicle.BestFitColumns();
             LoadText();
@@ -180,8 +158,52 @@ namespace CNY_Buyer.WForm
 
             gcVehicle.ForceInitialize();
         }
+        private void ChangeMenuBar_Close()
+        {
+            AllowAdd = true;
+            AllowEdit = true;
+            AllowClose = true;
+            AllowDelete = false;
+            AllowCancel = false;
+            AllowExpand = false;
+            AllowGenerate = false;
+            AllowRevision = false;
+            AllowSave = false;
+            AllowFind = false;
+            AllowPrint = false;
+            AllowRefresh = false;
+            AllowBreakDown = false;
+            AllowRangeSize = false;
+            AllowCombine = false;
+            AllowCheck = false;
+            AllowCopyObject = false;
+        }
+        private void ChangeMenuBar_Open()
+        {
+            AllowAdd = false;
+            AllowEdit = false;
+            AllowDelete = false;
+            AllowExpand = false;
+            AllowSave = true;
+            AllowGenerate = false;
+            AllowCancel = true;
+            EnableCancel = true;
+            AllowRevision = false;
+            EnableSave = true;
+            AllowFind = false;
+            AllowPrint = false;
+            AllowRefresh = false;
+            AllowBreakDown = false;
+            AllowRangeSize = false;
+            AllowCombine = false;
+            AllowCheck = false;
+            AllowCopyObject = false;
+            AllowClose = false;
+        }
         protected override void PerformAdd()
         {
+            ChangeMenuBar_Open();
+
             IsInsert = true;
 
             txtName.EditValue = string.Empty;
@@ -205,6 +227,7 @@ namespace CNY_Buyer.WForm
         }
         protected override void PerformEdit()
         {
+            ChangeMenuBar_Open();
 
             if (!gvVehicle.IsDataRow(gvVehicle.FocusedRowHandle))
             {
@@ -221,6 +244,10 @@ namespace CNY_Buyer.WForm
             txtUpdatedDate.Enabled = true;
 
             gcVehicle.Enabled = false;
+        }
+        protected override void PerformCancel()
+        {
+            ReloadData();
         }
         protected override void PerformSave()
         {
@@ -252,6 +279,7 @@ namespace CNY_Buyer.WForm
 
         private void ReloadData()
         {
+            ChangeMenuBar_Close();
             LoadText();
             gcVehicle.DataSource = _inf.sp_Vehicle_Select(-1);
             gvVehicle.BestFitColumns();

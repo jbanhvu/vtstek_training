@@ -1535,5 +1535,5 @@ C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\obj\Debug\CNY_SI.Report.Rpt001BusinessTrip.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\bin\Debug\CNY_SI.dll.config
-C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\obj\Debug\CNY_SI.Report.RptBusinessTripCostReport.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\obj\Debug\CNY_SI.WForm.FormTestReport.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_SI\obj\Debug\CNY_SI.Report.RptGatePass.resources

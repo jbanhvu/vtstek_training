@@ -31,7 +31,7 @@ namespace CNY_Buyer.WForm
 
         private void FrmTimeKeeper_Load(object sender, EventArgs e)
         {
-            HidenButton();
+            ChangeMenuBar_Close();
             LoadData();
         }
 
@@ -147,16 +147,17 @@ namespace CNY_Buyer.WForm
 
             gcTimeKeeper.ForceInitialize();
         }
-        private void HidenButton()
+        private void ChangeMenuBar_Close()
         {
             AllowAdd = true;
             AllowEdit = true;
+            AllowClose = true;
             AllowDelete = false;
+            AllowCancel = false;
             AllowExpand = false;
             AllowGenerate = false;
-            AllowCancel = true;
             AllowRevision = false;
-            AllowSave = true;
+            AllowSave = false;
             AllowFind = false;
             AllowPrint = false;
             AllowRefresh = false;
@@ -165,8 +166,28 @@ namespace CNY_Buyer.WForm
             AllowCombine = false;
             AllowCheck = false;
             AllowCopyObject = false;
-            EnableCancel = false;
+        }
+        private void ChangeMenuBar_Open()
+        {
+            AllowAdd = false;
+            AllowEdit = false;
+            AllowDelete = false;
+            AllowExpand = false;
+            AllowSave = true;
+            AllowGenerate = false;
+            AllowCancel = true;
+            EnableCancel = true;
+            AllowRevision = false;
             EnableSave = true;
+            AllowFind = false;
+            AllowPrint = false;
+            AllowRefresh = false;
+            AllowBreakDown = false;
+            AllowRangeSize = false;
+            AllowCombine = false;
+            AllowCheck = false;
+            AllowCopyObject = false;
+            AllowClose = false;
         }
         private void gcTimeKeeper_Click_1(object sender, EventArgs e)
         {
@@ -174,6 +195,8 @@ namespace CNY_Buyer.WForm
         }
         protected override void PerformAdd()
         {
+            ChangeMenuBar_Open();
+
             IsInsert = true;
 
             txtEncrollNumber.EditValue = string.Empty;
@@ -189,6 +212,7 @@ namespace CNY_Buyer.WForm
         }
         protected override void PerformEdit()
         {
+            ChangeMenuBar_Open();
 
             if (!gvTimeKeeper.IsDataRow(gvTimeKeeper.FocusedRowHandle))
             {
@@ -201,6 +225,10 @@ namespace CNY_Buyer.WForm
             txtDateTime.Enabled = true;
 
             gcTimeKeeper.Enabled = false;
+        }
+        protected override void PerformCancel()
+        {
+            ReloadData();
         }
         protected override void PerformSave()
         {
@@ -228,6 +256,7 @@ namespace CNY_Buyer.WForm
 
         private void ReloadData()
         {
+            ChangeMenuBar_Close();
             TextLoad();
             gcTimeKeeper.DataSource = _inf.sp_TimeKeeper_Select_1(-1);
             gvTimeKeeper.BestFitColumns();

@@ -9,9 +9,9 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace CNY_SI.Report
 {
-    public partial class RptBusinessTripCostReport : DevExpress.XtraReports.UI.XtraReport
+    public partial class RptGatePass : DevExpress.XtraReports.UI.XtraReport
     {
-        public RptBusinessTripCostReport(DataTable dtHeader, DataTable dtDetail, DataTable dtSignature)
+        public RptGatePass(DataTable dtHeader, DataTable dtDetail, DataTable dtSignature)
         {
             InitializeComponent();
             //Header
