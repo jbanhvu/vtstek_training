@@ -175,6 +175,12 @@ namespace CNY_SI.UControl
 
         }
         #endregion
+
         #endregion
+
+        private void gcBusinessTrip_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

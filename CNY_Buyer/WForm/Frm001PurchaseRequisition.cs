@@ -183,8 +183,6 @@ namespace CNY_Buyer.WForm
 
         #endregion "Gridview"
 
-
-
         #region "Override button menubar click"
 
         protected override void PerformAdd()
@@ -289,8 +287,6 @@ namespace CNY_Buyer.WForm
         }
 
         #endregion "Override button menubar click"
-
-
 
         #region "ChangeMenuBarButtonOpenAE
 

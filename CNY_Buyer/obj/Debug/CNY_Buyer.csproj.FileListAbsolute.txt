@@ -480,3 +480,9 @@ C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.csproj.CopyComplete
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.UControl.XtraUC006MaterialReceipt.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.Frm001UpdateRequestType.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_SI.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_SI.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\bin\Debug\CNY_SI.dll.config
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmTimeKeeper.resources

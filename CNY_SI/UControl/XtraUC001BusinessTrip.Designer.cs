@@ -57,6 +57,7 @@
             this.gcBusinessTrip.TabIndex = 0;
             this.gcBusinessTrip.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvBusinessTrip});
+            this.gcBusinessTrip.Click += new System.EventHandler(this.gcBusinessTrip_Click);
             // 
             // gvBusinessTrip
             // 

@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace CNY_Buyer.Class
 {
     class Cls_001PurchaseRequisition
     {
+        //TotalItem  TotalQuantity TotalAmount  Status StatusCode  PurchasingStatus PurchasingStatusName
+
         public Int64 PK { get; set; }
         public String ProjectCode { get; set; }
         public String Requester { get; set; }

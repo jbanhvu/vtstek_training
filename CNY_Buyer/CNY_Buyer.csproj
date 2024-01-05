@@ -102,6 +102,7 @@
     <Compile Include="Info\Inf_005MaterialRequirementDetail.cs" />
     <Compile Include="Info\Inf_006MaterialReceipt.cs" />
     <Compile Include="Info\Inf_007MaterialReceiptDetail.cs" />
+    <Compile Include="Info\Inf_TimeKeeper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -168,6 +169,12 @@
     <Compile Include="WForm\Frm001PurchaseRequisitionSelectItem.Designer.cs">
       <DependentUpon>Frm001PurchaseRequisitionSelectItem.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\Frm001UpdateRequestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\Frm001UpdateRequestType.Designer.cs">
+      <DependentUpon>Frm001UpdateRequestType.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\Frm004MaterialRequirement.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -186,11 +193,21 @@
     <Compile Include="WForm\FrmRequireReason.Designer.cs">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\FrmTimeKeeper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmTimeKeeper.Designer.cs">
+      <DependentUpon>FrmTimeKeeper.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CNY_Report\CNY_Report.csproj">
       <Project>{2d889563-6a24-4f75-9f28-95ead43d1a3c}</Project>
       <Name>CNY_Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CNY_SI\CNY_SI.csproj">
+      <Project>{2C3F4350-9766-4150-84C6-647020A4955D}</Project>
+      <Name>CNY_SI</Name>
     </ProjectReference>
     <ProjectReference Include="..\ScaG_Barcode\CNY_Barcode.csproj">
       <Project>{410bba5b-28da-4655-aede-dda6b6322531}</Project>
@@ -216,6 +233,9 @@
     <EmbeddedResource Include="UControl\XtraUC004MaterialRequirementAE.resx">
       <DependentUpon>XtraUC004MaterialRequirementAE.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUC006MaterialReceipt.resx">
+      <DependentUpon>XtraUC006MaterialReceipt.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UControl\XtraUC006MaterialReceiptAE.resx">
       <DependentUpon>XtraUC006MaterialReceiptAE.cs</DependentUpon>
     </EmbeddedResource>
@@ -228,8 +248,14 @@
     <EmbeddedResource Include="WForm\Frm001PurchaseRequisitionSelectItem.resx">
       <DependentUpon>Frm001PurchaseRequisitionSelectItem.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="WForm\Frm001UpdateRequestType.resx">
+      <DependentUpon>Frm001UpdateRequestType.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmRequireReason.resx">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmTimeKeeper.resx">
+      <DependentUpon>FrmTimeKeeper.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

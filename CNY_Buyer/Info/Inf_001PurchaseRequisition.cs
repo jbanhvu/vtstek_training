@@ -17,6 +17,22 @@ namespace CNY_Buyer.Info
             arrPara[0] = new SqlParameter("@PK", SqlDbType.NVarChar) { Value = PK };
             return _ac.TblReadDataSP("sp_PurchaseRequisition_Select", arrPara);
         }
+        public DataTable sp_FunctionInApproval_Select(string option, string formName)
+        {
+            var arrPara = new SqlParameter[2];
+            arrPara[0] = new SqlParameter("@Option", SqlDbType.NVarChar) { Value = option};
+            arrPara[1] = new SqlParameter("@Formname", SqlDbType.NVarChar) { Value = formName };
+            return _ac.TblReadDataSP("sp_FunctionInApproval_Select", arrPara);
+        }
+
+
+        public DataTable sp_PurchaseRequisition_UpdateRequestType(Int64 PK, Int64 FunctionInApprovalPK)
+        {
+            var arrPara = new SqlParameter[2];
+            arrPara[0] = new SqlParameter("@PK", SqlDbType.Int) { Value = PK };
+            arrPara[1] = new SqlParameter("@FunctionInApprovalPK", SqlDbType.Int) { Value = FunctionInApprovalPK };
+            return _ac.TblReadDataSP("sp_PurchaseRequisition_UpdateRequestType", arrPara);
+        }
         public DataTable sp_PurchaseRequisition_Update(Cls_001PurchaseRequisition cls)
         {
             var arrPara = new SqlParameter[15];
@@ -37,8 +53,6 @@ namespace CNY_Buyer.Info
             arrPara[14] = new SqlParameter("@Note", SqlDbType.NVarChar) { Value = cls.Note };
             return _ac.TblReadDataSP("sp_PurchaseRequisition_Update", arrPara);
         }
-
-
         #region  Excute
         public DataTable Excute(string SQL)
         {

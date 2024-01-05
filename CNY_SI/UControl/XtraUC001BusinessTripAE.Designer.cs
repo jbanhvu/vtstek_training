@@ -37,6 +37,7 @@
             this.gcNhanSu = new DevExpress.XtraGrid.GridControl();
             this.gvNhanSu = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridView3 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.gridView2 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
             this.gcChiPhi = new DevExpress.XtraGrid.GridControl();
             this.gvChiPhi = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -70,7 +71,6 @@
             this.txtContent = new DevExpress.XtraEditors.TextEdit();
             this.label12 = new System.Windows.Forms.Label();
             this.behaviorManager1 = new DevExpress.Utils.Behaviors.BehaviorManager(this.components);
-            this.gridView2 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
@@ -80,6 +80,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.gcNhanSu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvNhanSu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
             this.xtraTabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcChiPhi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvChiPhi)).BeginInit();
@@ -104,7 +105,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.txtCost.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtContent.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.behaviorManager1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -180,6 +180,11 @@
             // 
             this.gridView3.GridControl = this.gcNhanSu;
             this.gridView3.Name = "gridView3";
+            // 
+            // gridView2
+            // 
+            this.gridView2.GridControl = this.gcNhanSu;
+            this.gridView2.Name = "gridView2";
             // 
             // xtraTabPage2
             // 
@@ -479,11 +484,6 @@
             this.label12.Text = "Ghi chú";
             this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
-            // gridView2
-            // 
-            this.gridView2.GridControl = this.gcNhanSu;
-            this.gridView2.Name = "gridView2";
-            // 
             // XtraUC001BusinessTripAE
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -500,6 +500,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.gcNhanSu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvNhanSu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
             this.xtraTabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gcChiPhi)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvChiPhi)).EndInit();
@@ -525,7 +526,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.txtCost.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtContent.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.behaviorManager1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
             this.ResumeLayout(false);
 
         }
