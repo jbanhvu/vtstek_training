@@ -109,6 +109,7 @@
     <Compile Include="Info\Inf_005MaterialRequirementDetail.cs" />
     <Compile Include="Info\Inf_006MaterialReceipt.cs" />
     <Compile Include="Info\Inf_007MaterialReceiptDetail.cs" />
+    <Compile Include="Info\Inf_Seal.cs" />
     <Compile Include="Info\Inf_TimeKeeper.cs" />
     <Compile Include="Info\Inf_Vehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -201,6 +202,12 @@
     <Compile Include="WForm\FrmRequireReason.Designer.cs">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\FrmSeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmSeal.Designer.cs">
+      <DependentUpon>FrmSeal.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\FrmTimeKeeper.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -267,6 +274,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmRequireReason.resx">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmSeal.resx">
+      <DependentUpon>FrmSeal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmTimeKeeper.resx">
       <DependentUpon>FrmTimeKeeper.cs</DependentUpon>
