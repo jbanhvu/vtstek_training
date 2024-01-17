@@ -488,3 +488,5 @@ C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmTimeKeeper.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmVehicle.resources
 C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmSeal.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_Buyer.WForm.FrmLeave.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\VTSTek\vtstek_training\CNY_Buyer\obj\Debug\CNY_WH.Report.RptGatePassPaper.resources

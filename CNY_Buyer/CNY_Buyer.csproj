@@ -109,6 +109,7 @@
     <Compile Include="Info\Inf_005MaterialRequirementDetail.cs" />
     <Compile Include="Info\Inf_006MaterialReceipt.cs" />
     <Compile Include="Info\Inf_007MaterialReceiptDetail.cs" />
+    <Compile Include="Info\Inf_Leave.cs" />
     <Compile Include="Info\Inf_Seal.cs" />
     <Compile Include="Info\Inf_TimeKeeper.cs" />
     <Compile Include="Info\Inf_Vehicle.cs" />
@@ -123,6 +124,12 @@
     </Compile>
     <Compile Include="Report\Rpt001MaterialRequest.Designer.cs">
       <DependentUpon>Rpt001MaterialRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptGatePassPaper.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptGatePassPaper.Designer.cs">
+      <DependentUpon>RptGatePassPaper.cs</DependentUpon>
     </Compile>
     <Compile Include="UControl\XtraUC001PurchaseRequisition.cs">
       <SubType>UserControl</SubType>
@@ -196,6 +203,12 @@
     <Compile Include="WForm\Frm006MaterialReceipt.Designer.cs">
       <DependentUpon>Frm006MaterialReceipt.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\FrmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmLeave.Designer.cs">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\FrmRequireReason.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -248,6 +261,9 @@
     <EmbeddedResource Include="Report\Rpt001MaterialRequest.resx">
       <DependentUpon>Rpt001MaterialRequest.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptGatePassPaper.resx">
+      <DependentUpon>RptGatePassPaper.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UControl\XtraUC001PurchaseRequisitionAE.resx">
       <DependentUpon>XtraUC001PurchaseRequisitionAE.cs</DependentUpon>
     </EmbeddedResource>
@@ -271,6 +287,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\Frm001UpdateRequestType.resx">
       <DependentUpon>Frm001UpdateRequestType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmLeave.resx">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmRequireReason.resx">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>

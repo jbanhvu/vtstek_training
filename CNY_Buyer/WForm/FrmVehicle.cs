@@ -19,7 +19,7 @@ namespace CNY_Buyer.WForm
 {
     public partial class FrmVehicle : FrmBase
     {
-        Inf_Vehicle _inf;
+        private Inf_Vehicle _inf;
         private bool IsInsert;
         public FrmVehicle()
         {
