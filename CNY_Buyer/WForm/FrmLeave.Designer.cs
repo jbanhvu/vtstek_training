@@ -41,9 +41,11 @@
             this.teToDate = new DevExpress.XtraEditors.TimeEdit();
             this.deToDate = new DevExpress.XtraEditors.DateEdit();
             this.gcLeave = new DevExpress.XtraGrid.GridControl();
-            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gvLeave = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
+            this.txtDepartment = new DevExpress.XtraEditors.TextEdit();
             ((System.ComponentModel.ISupportInitialize)(this.DtPerFunction)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DtSpecialFunction)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNote.Properties)).BeginInit();
@@ -57,9 +59,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.deToDate.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.deToDate.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gcLeave)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvLeave)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtDepartment.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // labelControl4
@@ -88,14 +91,14 @@
             // 
             // txtNote
             // 
-            this.txtNote.Location = new System.Drawing.Point(87, 52);
+            this.txtNote.Location = new System.Drawing.Point(87, 87);
             this.txtNote.Name = "txtNote";
             this.txtNote.Size = new System.Drawing.Size(242, 22);
             this.txtNote.TabIndex = 18;
             // 
             // labelControl3
             // 
-            this.labelControl3.Location = new System.Drawing.Point(15, 55);
+            this.labelControl3.Location = new System.Drawing.Point(15, 90);
             this.labelControl3.Name = "labelControl3";
             this.labelControl3.Size = new System.Drawing.Size(42, 16);
             this.labelControl3.TabIndex = 24;
@@ -176,35 +179,54 @@
             this.gcLeave.Location = new System.Drawing.Point(3, 19);
             this.gcLeave.MainView = this.gvLeave;
             this.gcLeave.Name = "gcLeave";
-            this.gcLeave.Size = new System.Drawing.Size(767, 327);
+            this.gcLeave.Size = new System.Drawing.Size(767, 288);
             this.gcLeave.TabIndex = 0;
             this.gcLeave.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gvLeave});
-            // 
-            // gridView1
-            // 
-            this.gridView1.GridControl = this.gcLeave;
-            this.gridView1.Name = "gridView1";
+            this.gvLeave,
+            this.gridView1});
+            this.gcLeave.Click += new System.EventHandler(this.gcLeave_Click_1);
             // 
             // gvLeave
             // 
             this.gvLeave.GridControl = this.gcLeave;
             this.gvLeave.Name = "gvLeave";
             // 
+            // gridView1
+            // 
+            this.gridView1.GridControl = this.gcLeave;
+            this.gridView1.Name = "gridView1";
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.gcLeave);
-            this.groupBox1.Location = new System.Drawing.Point(15, 89);
+            this.groupBox1.Location = new System.Drawing.Point(15, 128);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(773, 349);
+            this.groupBox1.Size = new System.Drawing.Size(773, 310);
             this.groupBox1.TabIndex = 35;
             this.groupBox1.TabStop = false;
+            // 
+            // labelControl5
+            // 
+            this.labelControl5.Location = new System.Drawing.Point(15, 52);
+            this.labelControl5.Name = "labelControl5";
+            this.labelControl5.Size = new System.Drawing.Size(60, 16);
+            this.labelControl5.TabIndex = 37;
+            this.labelControl5.Text = "Phòng ban";
+            // 
+            // txtDepartment
+            // 
+            this.txtDepartment.Location = new System.Drawing.Point(87, 49);
+            this.txtDepartment.Name = "txtDepartment";
+            this.txtDepartment.Size = new System.Drawing.Size(242, 22);
+            this.txtDepartment.TabIndex = 36;
             // 
             // FrmLeave
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.labelControl5);
+            this.Controls.Add(this.txtDepartment);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.teToDate);
             this.Controls.Add(this.deToDate);
@@ -219,7 +241,6 @@
             this.Controls.Add(this.txtNote);
             this.Name = "FrmLeave";
             this.Text = "FrmLeave";
-            this.Load += new System.EventHandler(this.FrmLeave_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DtPerFunction)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DtSpecialFunction)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNote.Properties)).EndInit();
@@ -233,9 +254,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.deToDate.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.deToDate.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gcLeave)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvLeave)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.txtDepartment.Properties)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -258,5 +280,7 @@
         private DevExpress.XtraGrid.Views.Grid.GridView gvLeave;
         private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
         private System.Windows.Forms.GroupBox groupBox1;
+        private DevExpress.XtraEditors.LabelControl labelControl5;
+        private DevExpress.XtraEditors.TextEdit txtDepartment;
     }
 }

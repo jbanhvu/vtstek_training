@@ -73,7 +73,7 @@ namespace CNY_Buyer.WForm
 
         private void LoadDataToSlue()
         {
-            slueStaff.Properties.DataSource = _inf.Excute("SELECT USERID [StaffCode], FullName [Name] FROM dbo.ListUser");
+            slueStaff.Properties.DataSource = _inf.Excute("SELECT USERID [StaffCode],FullName [Name], DepartmentName [Department] FROM dbo.ListUser INNER JOIN ListDepartment ON ListUser.DepartmentCode = ListDepartment.DepartmentCode");
             slueStaff.Properties.DisplayMember = "StaffCode";
             slueStaff.Properties.ValueMember = "StaffCode";
             slueStaff.Properties.NullText = Convert.ToString(ProcessGeneral.GetSafeInt64(gvLeave.GetRowCellValue(gvLeave.FocusedRowHandle, "StaffPK")));
@@ -82,16 +82,17 @@ namespace CNY_Buyer.WForm
         private void LoadText()
         {
             Int64 staffPK = ProcessGeneral.GetSafeInt64(gvLeave.GetRowCellValue(gvLeave.FocusedRowHandle, "StaffPK"));
-            DataTable dt = _inf.Excute($"SELECT USERID [StaffCode], FullName [Name] FROM dbo.ListUser WHERE USERID = {staffPK}");
+
+            DataTable dt = _inf.Excute($"SELECT USERID [StaffCode],FullName [Name],DepartmentName [Department] FROM dbo.ListUser INNER JOIN ListDepartment ON ListUser.DepartmentCode = ListDepartment.DepartmentCode WHERE USERID = {staffPK}");
             txtStaffNameDesc.EditValue = dt.Rows[0]["Name"];
+            txtDepartment.EditValue = dt.Rows[0]["Department"];
 
             slueStaff.EditValue = staffPK;
             txtNote.EditValue = ProcessGeneral.GetSafeString(gvLeave.GetRowCellValue(gvLeave.FocusedRowHandle, "Note"));
 
-
+            txtDepartment.Enabled = false;
             txtStaffNameDesc.Enabled = false;
             txtNote.Enabled = false;
-
         }
         private void ReloadData()
         {
@@ -340,8 +341,11 @@ namespace CNY_Buyer.WForm
         protected override void PerformPrint()
         {
             Int64 PK = ProcessGeneral.GetSafeInt64(gvLeave.GetRowCellValue(gvLeave.FocusedRowHandle, "PK"));
+            Int64 staffPK = ProcessGeneral.GetSafeInt64(gvLeave.GetRowCellValue(gvLeave.FocusedRowHandle, "StaffPK"));
+
             DataTable dt = _inf.sp_Leave_Select(PK);
-            ReportPrintTool printTool = new ReportPrintTool(new RptGatePassPaper(dt));
+            DataTable dtStaff = _inf.Excute($"SELECT USERID [StaffCode],FullName [Name],DepartmentName [Department] FROM dbo.ListUser INNER JOIN ListDepartment ON ListUser.DepartmentCode = ListDepartment.DepartmentCode WHERE USERID = {staffPK}");
+            ReportPrintTool printTool = new ReportPrintTool(new RptGatePassPaper(dt, dtStaff));
 
             // Xuất báo cáo
             printTool.ShowPreview();
@@ -372,19 +376,21 @@ namespace CNY_Buyer.WForm
             DataTable dtsource = slue.Properties.DataSource as DataTable;
             if (dtsource == null)
             {
-                txtStaffNameDesc.EditValue = "";
+                txtStaffNameDesc.EditValue = string.Empty;
+                txtDepartment.EditValue = string.Empty;
                 return;
             }
             var drv = slue.Properties.GetRowByKeyValue(slue.EditValue) as DataRowView;
+
             if (drv != null)
             {
-                string a = ProcessGeneral.GetSafeString(drv.Row["Name"]);
-
-                txtStaffNameDesc.EditValue = a;
+                txtStaffNameDesc.EditValue = ProcessGeneral.GetSafeString(drv.Row["Name"]);
+                txtDepartment.EditValue = ProcessGeneral.GetSafeString(drv.Row["Department"]);
             }
             else
             {
-                txtStaffNameDesc.EditValue = "";
+                txtStaffNameDesc.EditValue = string.Empty;
+                txtDepartment.EditValue = string.Empty;
             }
         }
 
@@ -395,12 +401,11 @@ namespace CNY_Buyer.WForm
             a.BestFitColumns();
         }
 
-        private void gcLeave_Click(object sender, EventArgs e)
+        private void gcLeave_Click_1(object sender, EventArgs e)
         {
             LoadText();
             LoadDateTime();
         }
         #endregion
-
-        }
     }
+}
