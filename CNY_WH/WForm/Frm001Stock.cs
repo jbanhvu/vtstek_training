@@ -256,8 +256,6 @@ namespace CNY_WH.WForm
 
         #endregion "Override button menubar click"
 
-
-
         #region "Methold search"
 
         /// <summary>

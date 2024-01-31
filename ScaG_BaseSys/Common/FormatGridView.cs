@@ -357,5 +357,10 @@ namespace CNY_BaseSys.Common
             gcMain.ForceInitialize();
 
         }
+
+        public static void CreateColumnOnGridview(object gvLeave, HorzAlignment @default, string v1, string v2, int v3)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

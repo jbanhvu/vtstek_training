@@ -135,6 +135,10 @@
             this.grpCenter.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chkDragDrop.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitCCB)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.splitCCB.Panel1)).BeginInit();
+            this.splitCCB.Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitCCB.Panel2)).BeginInit();
+            this.splitCCB.Panel2.SuspendLayout();
             this.splitCCB.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tlMain)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabMain)).BeginInit();
@@ -168,9 +172,10 @@
             this.xtraCC.Appearance.Options.UseBackColor = true;
             this.xtraCC.Dock = System.Windows.Forms.DockStyle.Fill;
             this.xtraCC.Location = new System.Drawing.Point(0, 0);
+            this.xtraCC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.xtraCC.Name = "xtraCC";
             this.xtraCC.SelectedTabPage = this.TabGeneral;
-            this.xtraCC.Size = new System.Drawing.Size(1481, 600);
+            this.xtraCC.Size = new System.Drawing.Size(1728, 738);
             this.xtraCC.TabIndex = 532;
             this.xtraCC.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.TabGeneral,
@@ -182,8 +187,9 @@
             this.TabGeneral.Appearance.Header.Options.UseFont = true;
             this.TabGeneral.Controls.Add(this.panelControl1);
             this.TabGeneral.ImageOptions.Image = global::CNY_WH.Properties.Resources.Number_1_icon_8_8;
+            this.TabGeneral.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TabGeneral.Name = "TabGeneral";
-            this.TabGeneral.Size = new System.Drawing.Size(1475, 572);
+            this.TabGeneral.Size = new System.Drawing.Size(1726, 707);
             toolTipTitleItem1.ImageOptions.Image = global::CNY_WH.Properties.Resources.info_16x16;
             toolTipTitleItem1.Text = "Information";
             toolTipItem1.ImageOptions.Image = global::CNY_WH.Properties.Resources.feature_16x16;
@@ -223,38 +229,42 @@
             this.panelControl1.Controls.Add(this.txtAdjustedBy);
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelControl1.Location = new System.Drawing.Point(0, 0);
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(1475, 572);
+            this.panelControl1.Size = new System.Drawing.Size(1726, 707);
             this.panelControl1.TabIndex = 0;
             // 
             // txtStatusDescription
             // 
             this.txtStatusDescription.EditValue = "";
-            this.txtStatusDescription.Location = new System.Drawing.Point(109, 83);
+            this.txtStatusDescription.Location = new System.Drawing.Point(127, 102);
+            this.txtStatusDescription.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtStatusDescription.Name = "txtStatusDescription";
             this.txtStatusDescription.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtStatusDescription.Properties.Appearance.Options.UseForeColor = true;
             this.txtStatusDescription.Properties.AutoHeight = false;
-            this.txtStatusDescription.Size = new System.Drawing.Size(80, 22);
+            this.txtStatusDescription.Size = new System.Drawing.Size(93, 27);
             this.txtStatusDescription.TabIndex = 646;
             this.txtStatusDescription.Tag = "StatusDescription";
             // 
             // chkReject
             // 
-            this.chkReject.Location = new System.Drawing.Point(58, 108);
+            this.chkReject.Location = new System.Drawing.Point(68, 133);
+            this.chkReject.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chkReject.Name = "chkReject";
             this.chkReject.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.chkReject.Properties.Appearance.Options.UseForeColor = true;
             this.chkReject.Properties.Caption = "Rejected";
-            this.chkReject.Size = new System.Drawing.Size(71, 19);
+            this.chkReject.Size = new System.Drawing.Size(83, 24);
             this.chkReject.TabIndex = 645;
             // 
             // panelStatusList
             // 
             this.panelStatusList.Controls.Add(this.groupStatusList);
-            this.panelStatusList.Location = new System.Drawing.Point(5, 136);
+            this.panelStatusList.Location = new System.Drawing.Point(6, 167);
+            this.panelStatusList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelStatusList.Name = "panelStatusList";
-            this.panelStatusList.Size = new System.Drawing.Size(590, 301);
+            this.panelStatusList.Size = new System.Drawing.Size(688, 370);
             this.panelStatusList.TabIndex = 644;
             // 
             // groupStatusList
@@ -264,18 +274,21 @@
             this.groupStatusList.Controls.Add(this.gcStatusList);
             this.groupStatusList.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupStatusList.Location = new System.Drawing.Point(2, 2);
+            this.groupStatusList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupStatusList.Name = "groupStatusList";
-            this.groupStatusList.Size = new System.Drawing.Size(586, 297);
+            this.groupStatusList.Size = new System.Drawing.Size(684, 366);
             this.groupStatusList.TabIndex = 7;
             this.groupStatusList.Text = "Status List";
             // 
             // gcStatusList
             // 
             this.gcStatusList.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gcStatusList.Location = new System.Drawing.Point(2, 20);
+            this.gcStatusList.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gcStatusList.Location = new System.Drawing.Point(2, 28);
             this.gcStatusList.MainView = this.gvStatusList;
+            this.gcStatusList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gcStatusList.Name = "gcStatusList";
-            this.gcStatusList.Size = new System.Drawing.Size(582, 275);
+            this.gcStatusList.Size = new System.Drawing.Size(680, 336);
             this.gcStatusList.TabIndex = 3;
             this.gcStatusList.UseEmbeddedNavigator = true;
             this.gcStatusList.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -284,29 +297,33 @@
             // 
             // gvStatusList
             // 
+            this.gvStatusList.DetailHeight = 431;
             this.gvStatusList.GridControl = this.gcStatusList;
             this.gvStatusList.Name = "gvStatusList";
             // 
             // gridView5
             // 
+            this.gridView5.DetailHeight = 431;
             this.gridView5.GridControl = this.gcStatusList;
             this.gridView5.Name = "gridView5";
             // 
             // searchSDRType
             // 
             this.searchSDRType.EditValue = "";
-            this.searchSDRType.Location = new System.Drawing.Point(58, 57);
+            this.searchSDRType.Location = new System.Drawing.Point(68, 70);
+            this.searchSDRType.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.searchSDRType.Name = "searchSDRType";
             this.searchSDRType.Properties.AutoHeight = false;
             this.searchSDRType.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.searchSDRType.Properties.NullText = "";
             this.searchSDRType.Properties.PopupView = this.gridView3;
-            this.searchSDRType.Size = new System.Drawing.Size(131, 22);
+            this.searchSDRType.Size = new System.Drawing.Size(153, 27);
             this.searchSDRType.TabIndex = 643;
             // 
             // gridView3
             // 
+            this.gridView3.DetailHeight = 431;
             this.gridView3.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
             this.gridView3.Name = "gridView3";
             this.gridView3.OptionsSelection.EnableAppearanceFocusedCell = false;
@@ -315,206 +332,226 @@
             // txtSDRNo
             // 
             this.txtSDRNo.EditValue = "";
-            this.txtSDRNo.Location = new System.Drawing.Point(58, 5);
+            this.txtSDRNo.Location = new System.Drawing.Point(68, 6);
+            this.txtSDRNo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtSDRNo.Name = "txtSDRNo";
             this.txtSDRNo.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSDRNo.Properties.Appearance.ForeColor = System.Drawing.Color.Purple;
             this.txtSDRNo.Properties.Appearance.Options.UseFont = true;
             this.txtSDRNo.Properties.Appearance.Options.UseForeColor = true;
             this.txtSDRNo.Properties.AutoHeight = false;
-            this.txtSDRNo.Size = new System.Drawing.Size(131, 22);
+            this.txtSDRNo.Size = new System.Drawing.Size(153, 27);
             this.txtSDRNo.TabIndex = 605;
             this.txtSDRNo.Tag = "0";
             // 
             // labelControl38
             // 
-            this.labelControl38.Location = new System.Drawing.Point(3, 7);
+            this.labelControl38.Location = new System.Drawing.Point(4, 9);
+            this.labelControl38.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl38.Name = "labelControl38";
-            this.labelControl38.Size = new System.Drawing.Size(40, 13);
+            this.labelControl38.Size = new System.Drawing.Size(47, 16);
             this.labelControl38.TabIndex = 627;
             this.labelControl38.Text = "SDR No.";
             // 
             // labelControl25
             // 
-            this.labelControl25.Location = new System.Drawing.Point(3, 60);
+            this.labelControl25.Location = new System.Drawing.Point(4, 74);
+            this.labelControl25.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl25.Name = "labelControl25";
-            this.labelControl25.Size = new System.Drawing.Size(24, 13);
+            this.labelControl25.Size = new System.Drawing.Size(28, 16);
             this.labelControl25.TabIndex = 628;
             this.labelControl25.Text = "Type";
             // 
             // txtStatus
             // 
             this.txtStatus.EditValue = "";
-            this.txtStatus.Location = new System.Drawing.Point(58, 83);
+            this.txtStatus.Location = new System.Drawing.Point(68, 102);
+            this.txtStatus.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtStatus.Name = "txtStatus";
             this.txtStatus.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtStatus.Properties.Appearance.Options.UseForeColor = true;
             this.txtStatus.Properties.AutoHeight = false;
-            this.txtStatus.Size = new System.Drawing.Size(50, 22);
+            this.txtStatus.Size = new System.Drawing.Size(58, 27);
             this.txtStatus.TabIndex = 614;
             this.txtStatus.Tag = "StatusCode";
             // 
             // txtType
             // 
             this.txtType.EditValue = "";
-            this.txtType.Location = new System.Drawing.Point(190, 57);
+            this.txtType.Location = new System.Drawing.Point(222, 70);
+            this.txtType.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtType.Name = "txtType";
             this.txtType.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtType.Properties.Appearance.Options.UseForeColor = true;
             this.txtType.Properties.AutoHeight = false;
-            this.txtType.Size = new System.Drawing.Size(405, 22);
+            this.txtType.Size = new System.Drawing.Size(472, 27);
             this.txtType.TabIndex = 610;
             this.txtType.Tag = "3";
             // 
             // labelControl19
             // 
-            this.labelControl19.Location = new System.Drawing.Point(415, 100);
+            this.labelControl19.Location = new System.Drawing.Point(484, 123);
+            this.labelControl19.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl19.Name = "labelControl19";
-            this.labelControl19.Size = new System.Drawing.Size(43, 13);
+            this.labelControl19.Size = new System.Drawing.Size(50, 16);
             this.labelControl19.TabIndex = 632;
             this.labelControl19.Text = "Adjusted";
             // 
             // labelControl1
             // 
-            this.labelControl1.Location = new System.Drawing.Point(2, 35);
+            this.labelControl1.Location = new System.Drawing.Point(2, 43);
+            this.labelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(54, 13);
+            this.labelControl1.Size = new System.Drawing.Size(65, 16);
             this.labelControl1.TabIndex = 638;
             this.labelControl1.Text = "Sender(F4)";
             // 
             // labelControl12
             // 
-            this.labelControl12.Location = new System.Drawing.Point(3, 87);
+            this.labelControl12.Location = new System.Drawing.Point(4, 107);
+            this.labelControl12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl12.Name = "labelControl12";
-            this.labelControl12.Size = new System.Drawing.Size(51, 13);
+            this.labelControl12.Size = new System.Drawing.Size(60, 16);
             this.labelControl12.TabIndex = 635;
             this.labelControl12.Text = "Status(F4)";
             // 
             // txtSender
             // 
             this.txtSender.EditValue = "";
-            this.txtSender.Location = new System.Drawing.Point(58, 31);
+            this.txtSender.Location = new System.Drawing.Point(68, 38);
+            this.txtSender.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtSender.Name = "txtSender";
             this.txtSender.Properties.Appearance.ForeColor = System.Drawing.Color.Black;
             this.txtSender.Properties.Appearance.Options.UseForeColor = true;
             this.txtSender.Properties.AutoHeight = false;
-            this.txtSender.Size = new System.Drawing.Size(131, 22);
+            this.txtSender.Size = new System.Drawing.Size(153, 27);
             this.txtSender.TabIndex = 606;
             this.txtSender.Tag = "CreatedBy_028";
             // 
             // txtCreatedDate
             // 
             this.txtCreatedDate.EditValue = "";
-            this.txtCreatedDate.Location = new System.Drawing.Point(268, 108);
+            this.txtCreatedDate.Location = new System.Drawing.Point(313, 133);
+            this.txtCreatedDate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtCreatedDate.Name = "txtCreatedDate";
             this.txtCreatedDate.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtCreatedDate.Properties.Appearance.Options.UseForeColor = true;
             this.txtCreatedDate.Properties.AutoHeight = false;
-            this.txtCreatedDate.Size = new System.Drawing.Size(131, 22);
+            this.txtCreatedDate.Size = new System.Drawing.Size(153, 27);
             this.txtCreatedDate.TabIndex = 622;
             this.txtCreatedDate.Tag = "CreatedDate_027";
             // 
             // labelControl2
             // 
-            this.labelControl2.Location = new System.Drawing.Point(197, 35);
+            this.labelControl2.Location = new System.Drawing.Point(230, 43);
+            this.labelControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(67, 13);
+            this.labelControl2.Size = new System.Drawing.Size(80, 16);
             this.labelControl2.TabIndex = 639;
             this.labelControl2.Text = "Recipient (F4)";
             // 
             // txtVersion
             // 
             this.txtVersion.EditValue = "";
-            this.txtVersion.Location = new System.Drawing.Point(464, 31);
+            this.txtVersion.Location = new System.Drawing.Point(541, 38);
+            this.txtVersion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtVersion.Name = "txtVersion";
             this.txtVersion.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtVersion.Properties.Appearance.Options.UseForeColor = true;
             this.txtVersion.Properties.AutoHeight = false;
-            this.txtVersion.Size = new System.Drawing.Size(131, 22);
+            this.txtVersion.Size = new System.Drawing.Size(153, 27);
             this.txtVersion.TabIndex = 621;
             this.txtVersion.Tag = "VersionCode";
             // 
             // txtRecipient
             // 
             this.txtRecipient.EditValue = "";
-            this.txtRecipient.Location = new System.Drawing.Point(268, 31);
+            this.txtRecipient.Location = new System.Drawing.Point(313, 38);
+            this.txtRecipient.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtRecipient.Name = "txtRecipient";
             this.txtRecipient.Properties.Appearance.ForeColor = System.Drawing.Color.Black;
             this.txtRecipient.Properties.Appearance.Options.UseForeColor = true;
             this.txtRecipient.Properties.AutoHeight = false;
-            this.txtRecipient.Size = new System.Drawing.Size(131, 22);
+            this.txtRecipient.Size = new System.Drawing.Size(153, 27);
             this.txtRecipient.TabIndex = 607;
             this.txtRecipient.Tag = "AdjustedBy_030";
             // 
             // labelControl16
             // 
-            this.labelControl16.Location = new System.Drawing.Point(223, 100);
+            this.labelControl16.Location = new System.Drawing.Point(260, 123);
+            this.labelControl16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl16.Name = "labelControl16";
-            this.labelControl16.Size = new System.Drawing.Size(39, 13);
+            this.labelControl16.Size = new System.Drawing.Size(45, 16);
             this.labelControl16.TabIndex = 631;
             this.labelControl16.Text = "Created";
             // 
             // labelControl14
             // 
-            this.labelControl14.Location = new System.Drawing.Point(197, 9);
+            this.labelControl14.Location = new System.Drawing.Point(230, 11);
+            this.labelControl14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl14.Name = "labelControl14";
-            this.labelControl14.Size = new System.Drawing.Size(53, 13);
+            this.labelControl14.Size = new System.Drawing.Size(63, 16);
             this.labelControl14.TabIndex = 637;
             this.labelControl14.Text = "Description";
             // 
             // txtCreatedBy
             // 
             this.txtCreatedBy.EditValue = "";
-            this.txtCreatedBy.Location = new System.Drawing.Point(268, 83);
+            this.txtCreatedBy.Location = new System.Drawing.Point(313, 102);
+            this.txtCreatedBy.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtCreatedBy.Name = "txtCreatedBy";
             this.txtCreatedBy.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtCreatedBy.Properties.Appearance.Options.UseForeColor = true;
             this.txtCreatedBy.Properties.AutoHeight = false;
-            this.txtCreatedBy.Size = new System.Drawing.Size(131, 22);
+            this.txtCreatedBy.Size = new System.Drawing.Size(153, 27);
             this.txtCreatedBy.TabIndex = 616;
             this.txtCreatedBy.Tag = "CreatedBy_028";
             // 
             // labelControl13
             // 
-            this.labelControl13.Location = new System.Drawing.Point(409, 35);
+            this.labelControl13.Location = new System.Drawing.Point(477, 43);
+            this.labelControl13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl13.Name = "labelControl13";
-            this.labelControl13.Size = new System.Drawing.Size(35, 13);
+            this.labelControl13.Size = new System.Drawing.Size(43, 16);
             this.labelControl13.TabIndex = 636;
             this.labelControl13.Text = "Version";
             // 
             // txtDescription
             // 
             this.txtDescription.EditValue = "";
-            this.txtDescription.Location = new System.Drawing.Point(268, 5);
+            this.txtDescription.Location = new System.Drawing.Point(313, 6);
+            this.txtDescription.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtDescription.Name = "txtDescription";
             this.txtDescription.Properties.Appearance.ForeColor = System.Drawing.Color.Black;
             this.txtDescription.Properties.Appearance.Options.UseForeColor = true;
             this.txtDescription.Properties.AutoHeight = false;
-            this.txtDescription.Size = new System.Drawing.Size(327, 22);
+            this.txtDescription.Size = new System.Drawing.Size(382, 27);
             this.txtDescription.TabIndex = 608;
             this.txtDescription.Tag = "Dimension";
             // 
             // txtAdjustedDate
             // 
             this.txtAdjustedDate.EditValue = "";
-            this.txtAdjustedDate.Location = new System.Drawing.Point(464, 108);
+            this.txtAdjustedDate.Location = new System.Drawing.Point(541, 133);
+            this.txtAdjustedDate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtAdjustedDate.Name = "txtAdjustedDate";
             this.txtAdjustedDate.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtAdjustedDate.Properties.Appearance.Options.UseForeColor = true;
             this.txtAdjustedDate.Properties.AutoHeight = false;
-            this.txtAdjustedDate.Size = new System.Drawing.Size(131, 22);
+            this.txtAdjustedDate.Size = new System.Drawing.Size(153, 27);
             this.txtAdjustedDate.TabIndex = 623;
             this.txtAdjustedDate.Tag = "AdjustedDate_029";
             // 
             // txtAdjustedBy
             // 
             this.txtAdjustedBy.EditValue = "";
-            this.txtAdjustedBy.Location = new System.Drawing.Point(464, 83);
+            this.txtAdjustedBy.Location = new System.Drawing.Point(541, 102);
+            this.txtAdjustedBy.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtAdjustedBy.Name = "txtAdjustedBy";
             this.txtAdjustedBy.Properties.Appearance.ForeColor = System.Drawing.Color.Navy;
             this.txtAdjustedBy.Properties.Appearance.Options.UseForeColor = true;
             this.txtAdjustedBy.Properties.AutoHeight = false;
-            this.txtAdjustedBy.Size = new System.Drawing.Size(131, 22);
+            this.txtAdjustedBy.Size = new System.Drawing.Size(153, 27);
             this.txtAdjustedBy.TabIndex = 617;
             this.txtAdjustedBy.Tag = "AdjustedBy_030";
             // 
@@ -524,8 +561,9 @@
             this.TabItems.Appearance.Header.Options.UseFont = true;
             this.TabItems.Controls.Add(this.panelControl2);
             this.TabItems.ImageOptions.Image = global::CNY_WH.Properties.Resources.Number_2_icon_8_8;
+            this.TabItems.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TabItems.Name = "TabItems";
-            this.TabItems.Size = new System.Drawing.Size(1475, 572);
+            this.TabItems.Size = new System.Drawing.Size(1726, 707);
             toolTipTitleItem4.ImageOptions.Image = global::CNY_WH.Properties.Resources.info_16x16;
             toolTipTitleItem4.Text = "Information";
             toolTipItem4.ImageOptions.Image = global::CNY_WH.Properties.Resources.feature_16x16;
@@ -542,8 +580,9 @@
             this.panelControl2.Controls.Add(this.grpCenter);
             this.panelControl2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelControl2.Location = new System.Drawing.Point(0, 0);
+            this.panelControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelControl2.Name = "panelControl2";
-            this.panelControl2.Size = new System.Drawing.Size(1475, 572);
+            this.panelControl2.Size = new System.Drawing.Size(1726, 707);
             this.panelControl2.TabIndex = 1;
             // 
             // grpCenter
@@ -561,20 +600,22 @@
             this.grpCenter.Controls.Add(this.btnImageRm);
             this.grpCenter.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grpCenter.Location = new System.Drawing.Point(2, 2);
+            this.grpCenter.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.grpCenter.Name = "grpCenter";
-            this.grpCenter.Size = new System.Drawing.Size(1471, 568);
+            this.grpCenter.Size = new System.Drawing.Size(1722, 703);
             this.grpCenter.TabIndex = 2;
             // 
             // chkDragDrop
             // 
-            this.chkDragDrop.Location = new System.Drawing.Point(111, 0);
+            this.chkDragDrop.Location = new System.Drawing.Point(130, 0);
+            this.chkDragDrop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chkDragDrop.Name = "chkDragDrop";
             this.chkDragDrop.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkDragDrop.Properties.Appearance.ForeColor = System.Drawing.Color.Fuchsia;
             this.chkDragDrop.Properties.Appearance.Options.UseFont = true;
             this.chkDragDrop.Properties.Appearance.Options.UseForeColor = true;
             this.chkDragDrop.Properties.Caption = "Allow Drag And Drop Items";
-            this.chkDragDrop.Size = new System.Drawing.Size(178, 19);
+            this.chkDragDrop.Size = new System.Drawing.Size(208, 24);
             this.chkDragDrop.TabIndex = 497;
             this.chkDragDrop.ToolTip = "Alt+M Allow Move\r\nAlt+C Allow Copy\r\nAlt+O Disable Drag Drop";
             this.chkDragDrop.Visible = false;
@@ -583,9 +624,10 @@
             // 
             this.btnConvert.ImageOptions.Image = global::CNY_WH.Properties.Resources.replace_20x201;
             this.btnConvert.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleCenter;
-            this.btnConvert.Location = new System.Drawing.Point(71, 0);
+            this.btnConvert.Location = new System.Drawing.Point(83, 0);
+            this.btnConvert.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnConvert.Name = "btnConvert";
-            this.btnConvert.Size = new System.Drawing.Size(22, 20);
+            this.btnConvert.Size = new System.Drawing.Size(26, 25);
             this.btnConvert.TabIndex = 496;
             this.btnConvert.ToolTip = "Convert Unit";
             this.btnConvert.Visible = false;
@@ -594,14 +636,21 @@
             // 
             this.splitCCB.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitCCB.FixedPanel = DevExpress.XtraEditors.SplitFixedPanel.Panel2;
-            this.splitCCB.Location = new System.Drawing.Point(2, 20);
+            this.splitCCB.Location = new System.Drawing.Point(2, 28);
+            this.splitCCB.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.splitCCB.Name = "splitCCB";
+            // 
+            // splitCCB.Panel1
+            // 
             this.splitCCB.Panel1.Controls.Add(this.tlMain);
             this.splitCCB.Panel1.Text = "Panel1";
+            // 
+            // splitCCB.Panel2
+            // 
             this.splitCCB.Panel2.Controls.Add(this.xtraTabMain);
             this.splitCCB.Panel2.Text = "Panel2";
-            this.splitCCB.Size = new System.Drawing.Size(1467, 546);
-            this.splitCCB.SplitterPosition = 400;
+            this.splitCCB.Size = new System.Drawing.Size(1718, 673);
+            this.splitCCB.SplitterPosition = 467;
             this.splitCCB.TabIndex = 495;
             this.splitCCB.Text = "splitContainerControl1";
             // 
@@ -610,12 +659,15 @@
             this.tlMain.Cursor = System.Windows.Forms.Cursors.Default;
             this.tlMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tlMain.Location = new System.Drawing.Point(0, 0);
+            this.tlMain.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tlMain.MinWidth = 23;
             this.tlMain.Name = "tlMain";
             this.tlMain.OptionsClipboard.AllowCopy = DevExpress.Utils.DefaultBoolean.True;
             this.tlMain.OptionsClipboard.CopyNodeHierarchy = DevExpress.Utils.DefaultBoolean.True;
-            this.tlMain.Size = new System.Drawing.Size(1062, 546);
+            this.tlMain.Size = new System.Drawing.Size(1239, 673);
             this.tlMain.TabIndex = 27;
             this.tlMain.ToolTipController = this.toolTipControllerMain;
+            this.tlMain.TreeLevelWidth = 21;
             // 
             // xtraTabMain
             // 
@@ -623,9 +675,10 @@
             this.xtraTabMain.Appearance.Options.UseBackColor = true;
             this.xtraTabMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.xtraTabMain.Location = new System.Drawing.Point(0, 0);
+            this.xtraTabMain.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.xtraTabMain.Name = "xtraTabMain";
             this.xtraTabMain.SelectedTabPage = this.pageSO;
-            this.xtraTabMain.Size = new System.Drawing.Size(400, 546);
+            this.xtraTabMain.Size = new System.Drawing.Size(467, 673);
             this.xtraTabMain.TabIndex = 30;
             this.xtraTabMain.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.pageSO,
@@ -637,8 +690,9 @@
             this.pageSO.Appearance.Header.Options.UseFont = true;
             this.pageSO.Controls.Add(this.groupControl1);
             this.pageSO.ImageOptions.Image = global::CNY_WH.Properties.Resources.Number_1_icon_8_8;
+            this.pageSO.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pageSO.Name = "pageSO";
-            this.pageSO.Size = new System.Drawing.Size(394, 518);
+            this.pageSO.Size = new System.Drawing.Size(465, 642);
             toolTipTitleItem2.Appearance.Image = global::CNY_WH.Properties.Resources.info_16x16;
             toolTipTitleItem2.Appearance.Options.UseImage = true;
             toolTipTitleItem2.ImageOptions.Image = global::CNY_WH.Properties.Resources.info_16x16;
@@ -667,18 +721,21 @@
             this.groupControl1.Controls.Add(this.btnExportExcel);
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl1.Location = new System.Drawing.Point(0, 0);
+            this.groupControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(394, 518);
+            this.groupControl1.Size = new System.Drawing.Size(465, 642);
             this.groupControl1.TabIndex = 5;
             // 
             // gcColor
             // 
             this.gcColor.Cursor = System.Windows.Forms.Cursors.Default;
             this.gcColor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gcColor.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gcColor.Location = new System.Drawing.Point(2, 1);
             this.gcColor.MainView = this.gvColor;
+            this.gcColor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gcColor.Name = "gcColor";
-            this.gcColor.Size = new System.Drawing.Size(390, 486);
+            this.gcColor.Size = new System.Drawing.Size(461, 600);
             this.gcColor.TabIndex = 30;
             this.gcColor.ToolTipController = this.toolTipControllerMain;
             this.gcColor.UseEmbeddedNavigator = true;
@@ -688,11 +745,13 @@
             // 
             // gvColor
             // 
+            this.gvColor.DetailHeight = 431;
             this.gvColor.GridControl = this.gcColor;
             this.gvColor.Name = "gvColor";
             // 
             // gridView2
             // 
+            this.gridView2.DetailHeight = 431;
             this.gridView2.GridControl = this.gcColor;
             this.gridView2.Name = "gridView2";
             // 
@@ -702,9 +761,10 @@
             this.panelHLine.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.panelHLine.ContentImage = global::CNY_WH.Properties.Resources.HPermissionLine;
             this.panelHLine.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelHLine.Location = new System.Drawing.Point(2, 487);
+            this.panelHLine.Location = new System.Drawing.Point(2, 601);
+            this.panelHLine.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelHLine.Name = "panelHLine";
-            this.panelHLine.Size = new System.Drawing.Size(390, 10);
+            this.panelHLine.Size = new System.Drawing.Size(461, 12);
             this.panelHLine.TabIndex = 504;
             // 
             // labelControl6
@@ -718,9 +778,10 @@
             this.labelControl6.Appearance.Options.UseImage = true;
             this.labelControl6.Appearance.Options.UseImageAlign = true;
             this.labelControl6.Appearance.Options.UseImageIndex = true;
-            this.labelControl6.Location = new System.Drawing.Point(367, -18);
+            this.labelControl6.Location = new System.Drawing.Point(433, -22);
+            this.labelControl6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControl6.Name = "labelControl6";
-            this.labelControl6.Size = new System.Drawing.Size(0, 13);
+            this.labelControl6.Size = new System.Drawing.Size(0, 16);
             this.labelControl6.TabIndex = 16;
             // 
             // btnExportExcel
@@ -728,9 +789,10 @@
             this.btnExportExcel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.btnExportExcel.ImageOptions.Image = global::CNY_WH.Properties.Resources.exporttoxlsx_20x20;
             this.btnExportExcel.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleCenter;
-            this.btnExportExcel.Location = new System.Drawing.Point(1, 498);
+            this.btnExportExcel.Location = new System.Drawing.Point(1, 617);
+            this.btnExportExcel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnExportExcel.Name = "btnExportExcel";
-            this.btnExportExcel.Size = new System.Drawing.Size(22, 20);
+            this.btnExportExcel.Size = new System.Drawing.Size(26, 25);
             this.btnExportExcel.TabIndex = 492;
             this.btnExportExcel.ToolTip = "Export Excel";
             // 
@@ -740,8 +802,9 @@
             this.pageCategory.Appearance.Header.Options.UseFont = true;
             this.pageCategory.Controls.Add(this.gcDetail);
             this.pageCategory.ImageOptions.Image = global::CNY_WH.Properties.Resources.Number_2_icon_8_8;
+            this.pageCategory.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pageCategory.Name = "pageCategory";
-            this.pageCategory.Size = new System.Drawing.Size(394, 518);
+            this.pageCategory.Size = new System.Drawing.Size(465, 642);
             toolTipTitleItem3.Appearance.Image = global::CNY_WH.Properties.Resources.info_16x16;
             toolTipTitleItem3.Appearance.Options.UseImage = true;
             toolTipTitleItem3.ImageOptions.Image = global::CNY_WH.Properties.Resources.info_16x16;
@@ -761,10 +824,12 @@
             // 
             this.gcDetail.Cursor = System.Windows.Forms.Cursors.Default;
             this.gcDetail.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gcDetail.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gcDetail.Location = new System.Drawing.Point(0, 0);
             this.gcDetail.MainView = this.gvDetail;
+            this.gcDetail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gcDetail.Name = "gcDetail";
-            this.gcDetail.Size = new System.Drawing.Size(394, 518);
+            this.gcDetail.Size = new System.Drawing.Size(465, 642);
             this.gcDetail.TabIndex = 31;
             this.gcDetail.UseEmbeddedNavigator = true;
             this.gcDetail.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -773,11 +838,13 @@
             // 
             // gvDetail
             // 
+            this.gvDetail.DetailHeight = 431;
             this.gvDetail.GridControl = this.gcDetail;
             this.gvDetail.Name = "gvDetail";
             // 
             // gridView1
             // 
+            this.gridView1.DetailHeight = 431;
             this.gridView1.GridControl = this.gcDetail;
             this.gridView1.Name = "gridView1";
             // 
@@ -792,18 +859,20 @@
             this.lblDelete.Appearance.Options.UseImage = true;
             this.lblDelete.Appearance.Options.UseImageAlign = true;
             this.lblDelete.Appearance.Options.UseImageIndex = true;
-            this.lblDelete.Location = new System.Drawing.Point(1444, 1);
+            this.lblDelete.Location = new System.Drawing.Point(1691, 1);
+            this.lblDelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lblDelete.Name = "lblDelete";
-            this.lblDelete.Size = new System.Drawing.Size(0, 13);
+            this.lblDelete.Size = new System.Drawing.Size(0, 16);
             this.lblDelete.TabIndex = 16;
             // 
             // btnRemoveAttribute
             // 
             this.btnRemoveAttribute.ImageOptions.Image = global::CNY_WH.Properties.Resources.deletedatasource_20x20;
             this.btnRemoveAttribute.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleCenter;
-            this.btnRemoveAttribute.Location = new System.Drawing.Point(48, 0);
+            this.btnRemoveAttribute.Location = new System.Drawing.Point(56, 0);
+            this.btnRemoveAttribute.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRemoveAttribute.Name = "btnRemoveAttribute";
-            this.btnRemoveAttribute.Size = new System.Drawing.Size(22, 20);
+            this.btnRemoveAttribute.Size = new System.Drawing.Size(26, 25);
             this.btnRemoveAttribute.TabIndex = 494;
             this.btnRemoveAttribute.ToolTip = "Remove Atrribute";
             this.btnRemoveAttribute.Visible = false;
@@ -812,9 +881,10 @@
             // 
             this.btnAddAttribute.ImageOptions.Image = global::CNY_WH.Properties.Resources.addnewdatasource_20x20;
             this.btnAddAttribute.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleCenter;
-            this.btnAddAttribute.Location = new System.Drawing.Point(25, 0);
+            this.btnAddAttribute.Location = new System.Drawing.Point(29, 0);
+            this.btnAddAttribute.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAddAttribute.Name = "btnAddAttribute";
-            this.btnAddAttribute.Size = new System.Drawing.Size(22, 20);
+            this.btnAddAttribute.Size = new System.Drawing.Size(26, 25);
             this.btnAddAttribute.TabIndex = 493;
             this.btnAddAttribute.ToolTip = "Add Attribute";
             this.btnAddAttribute.Visible = false;
@@ -824,19 +894,21 @@
             this.btnImageRm.ImageOptions.Image = global::CNY_WH.Properties.Resources.image_20x20;
             this.btnImageRm.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleCenter;
             this.btnImageRm.Location = new System.Drawing.Point(2, 0);
+            this.btnImageRm.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnImageRm.Name = "btnImageRm";
-            this.btnImageRm.Size = new System.Drawing.Size(22, 20);
+            this.btnImageRm.Size = new System.Drawing.Size(26, 25);
             this.btnImageRm.TabIndex = 492;
             this.btnImageRm.ToolTip = "View Image Item BOM";
             this.btnImageRm.Visible = false;
             // 
             // XtraUC_StockDocumentRequestMainAE
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.xtraCC);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "XtraUC_StockDocumentRequestMainAE";
-            this.Size = new System.Drawing.Size(1481, 600);
+            this.Size = new System.Drawing.Size(1728, 738);
             ((System.ComponentModel.ISupportInitialize)(this.dXErrorMain)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraCC)).EndInit();
             this.xtraCC.ResumeLayout(false);
@@ -873,6 +945,10 @@
             this.grpCenter.ResumeLayout(false);
             this.grpCenter.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chkDragDrop.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.splitCCB.Panel1)).EndInit();
+            this.splitCCB.Panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitCCB.Panel2)).EndInit();
+            this.splitCCB.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitCCB)).EndInit();
             this.splitCCB.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.tlMain)).EndInit();

@@ -109,8 +109,11 @@
     <Compile Include="Info\Inf_005MaterialRequirementDetail.cs" />
     <Compile Include="Info\Inf_006MaterialReceipt.cs" />
     <Compile Include="Info\Inf_007MaterialReceiptDetail.cs" />
+    <Compile Include="Info\Inf_LaborContract.cs" />
     <Compile Include="Info\Inf_Leave.cs" />
+    <Compile Include="Info\Inf_PaymentRequest.cs" />
     <Compile Include="Info\Inf_Seal.cs" />
+    <Compile Include="Info\Inf_Staff.cs" />
     <Compile Include="Info\Inf_TimeKeeper.cs" />
     <Compile Include="Info\Inf_Vehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -167,6 +170,18 @@
     <Compile Include="UControl\XtraUC006MaterialReceiptAE.Designer.cs">
       <DependentUpon>XtraUC006MaterialReceiptAE.cs</DependentUpon>
     </Compile>
+    <Compile Include="UControl\XtraUCStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCStaff.Designer.cs">
+      <DependentUpon>XtraUCStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\XtraUCStaffAE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\XtraUCStaffAE.Designer.cs">
+      <DependentUpon>XtraUCStaffAE.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\Frm001PurchaseRequisition.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -209,6 +224,12 @@
     <Compile Include="WForm\FrmLeave.Designer.cs">
       <DependentUpon>FrmLeave.cs</DependentUpon>
     </Compile>
+    <Compile Include="WForm\FrmPaymentRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmPaymentRequest.Designer.cs">
+      <DependentUpon>FrmPaymentRequest.cs</DependentUpon>
+    </Compile>
     <Compile Include="WForm\FrmRequireReason.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -220,6 +241,12 @@
     </Compile>
     <Compile Include="WForm\FrmSeal.Designer.cs">
       <DependentUpon>FrmSeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WForm\FrmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WForm\FrmStaff.Designer.cs">
+      <DependentUpon>FrmStaff.cs</DependentUpon>
     </Compile>
     <Compile Include="WForm\FrmTimeKeeper.cs">
       <SubType>Form</SubType>
@@ -276,6 +303,12 @@
     <EmbeddedResource Include="UControl\XtraUC006MaterialReceiptAE.resx">
       <DependentUpon>XtraUC006MaterialReceiptAE.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCStaff.resx">
+      <DependentUpon>XtraUCStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControl\XtraUCStaffAE.resx">
+      <DependentUpon>XtraUCStaffAE.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="WForm\Frm001PurchaseRequisition.resx">
       <DependentUpon>Frm001PurchaseRequisition.cs</DependentUpon>
     </EmbeddedResource>
@@ -291,11 +324,17 @@
     <EmbeddedResource Include="WForm\FrmLeave.resx">
       <DependentUpon>FrmLeave.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmPaymentRequest.resx">
+      <DependentUpon>FrmPaymentRequest.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmRequireReason.resx">
       <DependentUpon>FrmRequireReason.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmSeal.resx">
       <DependentUpon>FrmSeal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WForm\FrmStaff.resx">
+      <DependentUpon>FrmStaff.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WForm\FrmTimeKeeper.resx">
       <DependentUpon>FrmTimeKeeper.cs</DependentUpon>
